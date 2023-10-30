@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkopencogmind=self.webpackChunkopencogmind||[]).push([[3096],{1354:o=>{o.exports=JSON.parse('{"permalink":"/opencogmind/blog/tags/docusaurus","page":1,"postsPerPage":10,"totalPages":1,"totalCount":4,"blogDescription":"Blog","blogTitle":"Blog"}')}}]);
