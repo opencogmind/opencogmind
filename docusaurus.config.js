@@ -80,8 +80,8 @@ const config = {
           {to: '/blog', label: 'Blog', position: 'left'},
           {
             href: 'https://github.com/facebook/docusaurus',
-            label: 'GitHub',
-            position: 'right',
+            // label: 'GitHub',
+            // position: 'right',
           },
         ],
       },
@@ -92,7 +92,7 @@ const config = {
             title: 'Docs',
             items: [
               {
-                label: 'Tutorial',
+                label: 'Home',
                 to: '/docs/intro',
               },
             ],
@@ -128,7 +128,7 @@ const config = {
             ],
           },
         ],
-        copyright: `Copyright © ${new Date().getFullYear()} My Project, Inc. Built with Docusaurus.`,
+        copyright: `Copyright © ${new Date().getFullYear()} OpenCogMind.com`,
       },
       prism: {
         theme: lightCodeTheme,
