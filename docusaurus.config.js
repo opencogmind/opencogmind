@@ -20,7 +20,7 @@ const config = {
   // If you aren't using GitHub pages, you don't need these.
   organizationName: 'opencogmind', // Usually your GitHub org/user name.
   projectName: 'opencogmind', // Usually your repo name.
-  deploymentBranch: "gh-pages",
+  deploymentBranch: "main",
 
   onBrokenLinks: 'throw',
   onBrokenMarkdownLinks: 'warn',
