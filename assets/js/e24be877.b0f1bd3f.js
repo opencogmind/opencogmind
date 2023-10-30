@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkopencogmind=self.webpackChunkopencogmind||[]).push([[5646],{4523:o=>{o.exports=JSON.parse('{"label":"hola","permalink":"/opencogmind/docs/intro/blog/tags/hola","allTagsPath":"/opencogmind/docs/intro/blog/tags","count":1}')}}]);
