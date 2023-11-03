@@ -28,10 +28,7 @@ const config = {
   // Even if you don't use internalization, you can use this field to set useful
   // metadata like html lang. For example, if your site is Chinese, you may want
   // to replace "en" with "zh-Hans".
-  i18n: {
-    defaultLocale: 'en',
-    locales: ['en'],
-  },
+  
 
   presets: [
     [
@@ -60,9 +57,17 @@ const config = {
   ],
 
   themeConfig:
-    /** @type {import('@docusaurus/preset-classic').ThemeConfig} */
-    ({
+    {
+      algolia:{
+        apiKey: '03bc6eb8078009a4ba5ca6b0f7b8920d',
+        indexName: 'OpenCogMind',
+        contextualSearch: true,
+        placeholder: 'Enter name here ',
+        appId: 'AGDCIFUF3C',
+
+      },
       // Replace with your project's social card
+     
       image: 'img/docusaurus-social-card.jpg',
       navbar: {
         title: 'Home',
@@ -134,7 +139,7 @@ const config = {
         theme: lightCodeTheme,
         darkTheme: darkCodeTheme,
       },
-    }),
+    },
 };
 
 module.exports = config;
