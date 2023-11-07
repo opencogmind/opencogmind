@@ -28,6 +28,7 @@
   --ifm-color-primary-lightest: #4fddbf;
   --docusaurus-highlighted-code-line-bg: rgba(0, 0, 0, 0.1);
   --ifm-hero-background-color: #0e1823 !important;
+  --ifm-footer-background-color:#0e1823 !important;
 
 .navbar--fixed-top{
  background-color: #0e1823 !important;
