@@ -9,20 +9,27 @@ import styles from './index.module.css';
 
 function HomepageHeader() {
   const {siteConfig} = useDocusaurusContext();
+
+  const heroStyle = {
+    backgroundImage: 'url("/img/1.png")', // Replace with the path to your image
+    
+  };
   return (
-    <header className={clsx('hero hero--primary', styles.heroBanner)}>
+    
+    <header className={clsx('hero ', styles.heroBanner)} style={heroStyle}>
       <div className="container">
-        <h1 className="hero__title">{siteConfig.title}</h1>
-        <p className="hero__subtitle">{siteConfig.tagline}</p>
+        <h1 style={{color: 'darkgrey' }} className="hero__title">{siteConfig.title}</h1>
+        <p style={{color: 'darkgrey' }} className="hero__subtitle">{siteConfig.tagline}</p>
         <div className={styles.buttons}>
           <Link
-            className="button button--secondary button--lg"
-            to="/docs/intro">
-            Docusaurus Tutorial - 5min ⏱️
+            className=" button button--secondary button--lg"
+            to="/docs/intro" style={{color: 'white', background: 'linear-gradient(to right, rgba(255, 0, 187, 0.72), rgba(212, 79, 212, 0.78) 51%)'}}>
+            Read about OpenCogMind
           </Link>
         </div>
       </div>
     </header>
+    
   );
 }
 

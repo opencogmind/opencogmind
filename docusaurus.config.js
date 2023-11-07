@@ -6,20 +6,20 @@ const darkCodeTheme = require('prism-react-renderer/themes/dracula');
 
 /** @type {import('@docusaurus/types').Config} */
 const config = {
-  title: 'OpenCogMind',
-  tagline: 'Follow this path from AI to AGI',
+  title: 'Follow the path from AI -) AGI',
+  tagline: 'To Build thinking machines...',
   favicon: 'img/favicon.ico',
 
   // Set the production url of your site here
-  url: 'https://github.com',
+  url: 'https://opencogmind.netlify.app',
   // Set the /<baseUrl>/ pathname under which your site is served
   // For GitHub pages deployment, it is often '/<projectName>/'
-  baseUrl: '/opencogmind/',
+  baseUrl: '/',
 
   // GitHub pages deployment config.
   // If you aren't using GitHub pages, you don't need these.
   organizationName: 'opencogmind', // Usually your GitHub org/user name.
-  projectName: 'opencogmind', // Usually your repo name.
+  projectName: '', // Usually your repo name.
   deploymentBranch: "gh-pages",
 
   onBrokenLinks: 'throw',
@@ -61,7 +61,7 @@ const config = {
       algolia:{
         apiKey: '03bc6eb8078009a4ba5ca6b0f7b8920d',
         indexName: 'OpenCogMind',
-        contextualSearch: true,
+        contextualSearch: false,
         placeholder: 'Enter name here ',
         appId: 'AGDCIFUF3C',
 
@@ -70,7 +70,7 @@ const config = {
      
       image: 'img/docusaurus-social-card.jpg',
       navbar: {
-        title: 'Home',
+        title: 'OpenCogMind',
         logo: {
           alt: '',
           src: 'img/logo.png',
@@ -80,9 +80,9 @@ const config = {
             type: 'docSidebar',
             sidebarId: 'tutorialSidebar',
             position: 'left',
-            label: 'Tutorial',
+            label: 'AGI',
           },
-          {to: '/blog', label: 'Blog', position: 'left'},
+          {to: '/blog', label: 'Apps', position: 'left'},
           {
             href: 'https://github.com/facebook/docusaurus',
             // label: 'GitHub',
@@ -136,8 +136,8 @@ const config = {
         copyright: `Copyright © ${new Date().getFullYear()} OpenCogMind.com`,
       },
       prism: {
-        theme: lightCodeTheme,
         darkTheme: darkCodeTheme,
+        theme: lightCodeTheme,
       },
     },
 };
