@@ -4,14 +4,14 @@
  */
 
 .heroBanner_qdFl {
-  padding: 24rem 0;
-  background-size: cover;
-  text-align: center;
-  position: relative;
+  padding: 24rem 2rem !important ;
+  background-size: cover !important;
+  text-align: center !important;
+  position: relative !important;
   overflow: hidden;
-  background-repeat: no-repeat;
+  background-repeat: no-repeat !important;
   
-    background-position: center;
+    background-position: center !important;
     /* background-size: cover; */
 }
 
