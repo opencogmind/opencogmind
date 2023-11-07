@@ -31,16 +31,16 @@
   --ifm-footer-background-color:#0e1823 !important;
 
 .navbar--fixed-top{
- background-color: #2667ad !important;
+ background-color: #0e1823 !important;
 }
 .heroBanner_src-pages-index-module{
-  background-color: #3872b0 !important;
+  background-color: #0e1823 !important;
 }
 .features_src-components-HomepageFeatures-styles-module{
-   background-color: #396fa9 !important;
+   background-color: #0e1823 !important;
 }
 .footer{
-  background-color: #0e1823 !important;
+  /* background-color: #0e1823 !important; */
   border-top: 1.25px solid rgba(179, 179, 179) !important;
 }
 .hero__title{
