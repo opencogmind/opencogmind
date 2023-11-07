@@ -36,7 +36,9 @@
   .navbar--fixed-top{
     background-color: #0e1823 !important;
    }
-
+.hero{
+  padding:24rem 2rem !important;
+}
 .heroBanner_src-pages-index-module{
   background-color: #0e1823 !important;
 }
@@ -44,7 +46,6 @@
   background-color: #0e1823 !important;
 }
 .footer{
-  
   border-top: 1.25px solid rgba(179, 179, 179) !important;
   background-color: #0e1823 !important;
 }
