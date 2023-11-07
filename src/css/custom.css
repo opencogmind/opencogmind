@@ -29,20 +29,18 @@
   --docusaurus-highlighted-code-line-bg: rgba(0, 0, 0, 0.1);
   --ifm-hero-background-color: #0e1823 !important;
   /* --ifm-footer-background-color:#0e1823 !important; */
+  
+  .navbar--fixed-top{
+    background-color: #0e1823 !important;
+   }
 
-.navbar--fixed-top{
- background-color: #0e1823 !important;
-}
 .heroBanner_src-pages-index-module{
   background-color: #0e1823 !important;
 }
 .features_src-components-HomepageFeatures-styles-module{
    background-color: #0e1823 !important;
 }
-.footer{
-  background-color: #0e1823 !important;
-  border-top: 1.25px solid rgba(179, 179, 179) !important;
-}
+
 .hero__title{
   color:white !important;
 }
