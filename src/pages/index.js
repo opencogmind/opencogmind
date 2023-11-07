@@ -12,7 +12,8 @@ function HomepageHeader() {
 
   const heroStyle = {
     backgroundImage: 'url("/img/1.png")', // Replace with the path to your image
-    
+    padding: '24rem 2rem ' ,
+    backgroundSize: 'cover',
   };
   return (
     
