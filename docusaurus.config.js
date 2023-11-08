@@ -99,42 +99,44 @@ const config = {
         style: 'dark',
         links: [
           {
-            title: 'Docs',
+            title: 'OpenCogMind',
             items: [
               {
-                label: 'Home',
+                label: 'AGI',
                 to: '/docs/intro',
               },
+              
+              {
+                label: 'AI:Safety',
+                to: '/docs/intro',
+              },
+
+            ],
+          },
+          {
+            title: 'Apps',
+            items: [
+              {
+                label: 'GitHub',
+                href: 'https://github.com/facebook/docusaurus',
+              },
+              {
+                label: 'Youtube',
+                href: 'https://stackoverflow.com/questions/tagged/docusaurus',
+              }
             ],
           },
           {
             title: 'Community',
             items: [
-              {
-                label: 'Stack Overflow',
-                href: 'https://stackoverflow.com/questions/tagged/docusaurus',
-              },
-              {
-                label: 'Discord',
-                href: 'https://discordapp.com/invite/docusaurus',
-              },
-              {
-                label: 'Twitter',
-                href: 'https://twitter.com/docusaurus',
-              },
-            ],
-          },
-          {
-            title: 'More',
-            items: [
-              {
-                label: 'Blog',
-                to: '/blog',
-              },
-              {
-                label: 'GitHub',
-                href: 'https://github.com/facebook/docusaurus',
-              },
+            {
+              label: 'Slack',
+              href: 'https://app.slack.com/client/T0632A15V71/D063K9K7FE0',
+            },
+            {
+              label: 'Twitter/X',
+              href: 'https://twitter.com/OpencogMind',
+            },
             ],
           },
         ],
