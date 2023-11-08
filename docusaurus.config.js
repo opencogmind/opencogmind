@@ -6,8 +6,8 @@ const darkCodeTheme = require('prism-react-renderer/themes/dracula');
 
 /** @type {import('@docusaurus/types').Config} */
 const config = {
-  title: 'Follow the path from AI -) AGI',
-  tagline: 'To Build thinking machines...',
+title: 'Follow the path to Safe AGI',
+tagline: 'Build Safe thinking machines...',
   favicon: 'img/favicon.ico',
 
   // Set the production url of your site here
@@ -103,48 +103,50 @@ const config = {
       footer: {
         style: 'dark',
         links: [
-          {
-            title: 'Docs',
-            items: [
-              {
-                label: 'Home',
-                to: '/docs/intro',
-              },
-            ],
-          },
-          {
-            title: 'Community',
-            items: [
-              {
-                label: 'Stack Overflow',
-                href: 'https://stackoverflow.com/questions/tagged/docusaurus',
-              },
-              {
-                label: 'Discord',
-                href: 'https://discordapp.com/invite/docusaurus',
-              },
-              {
-                label: 'Twitter',
-                href: 'https://twitter.com/docusaurus',
-              },
-            ],
-          },
-          {
-            title: 'More',
-            items: [
-              {
-                label: 'Blog',
-                to: '/blog',
-              },
-              {
-                label: 'GitHub',
-                href: 'https://github.com/facebook/docusaurus',
-              },
-            ],
-          },
+        {
+        title: 'OpenCogMind',
+        items: [
+        {
+        label: 'AGI',
+        to: '/docs/intro',
+        },
+        
+        {
+        label: 'AI Safety',
+        to: '/docs/aisafety',
+        },
+        
+        ],
+        },
+        {
+        title: 'Apps',
+        items: [
+        {
+        label: 'GitHub',
+        href: 'https://github.com/facebook/docusaurus',
+        },
+        {
+        label: 'Youtube',
+        href: 'https://stackoverflow.com/questions/tagged/docusaurus',
+        }
+        ],
+        },
+        {
+        title: 'Community',
+        items: [
+        {
+        label: 'Slack',
+        href: 'https://app.slack.com/client/T0632A15V71/D063K9K7FE0',
+        },
+        {
+        label: 'Twitter/X',
+        href: 'https://twitter.com/OpencogMind',
+        },
+        ],
+        },
         ],
         copyright: `Copyright © ${new Date().getFullYear()} OpenCogMind.com`,
-      },
+        },
       prism: {
         darkTheme: darkCodeTheme,
         theme: lightCodeTheme,
