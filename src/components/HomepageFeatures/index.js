@@ -43,7 +43,7 @@ function Feature({ link, Svg, title, description}) {
     <Svg className={styles.featureSvg} role="img" />
   </div>
   <div className={clsx('content', styles.flexItem1)}>
-    <a href={link}><h3>{title}</h3></a>
+    <a style={{color: 'rgb(130, 129, 239)'}} href={link}><h3>{title}</h3></a>
     <p>{description}</p>
   </div>
 </div>
