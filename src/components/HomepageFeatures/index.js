@@ -4,20 +4,20 @@ import styles from './styles.module.css';
 
 const FeatureList = [
   {
-    title: 'AGI',
+    title: 'AI : Current State',
     Svg: require('@site/static/img/1.svg').default,
     description: (
       <>
-        Follow the path to AGI.
+        Follow AI-current state-of-the-art and need for AGI.
       </>
     ),
   },
   {
-    title: 'AI Safety',
+    title: 'AI -) AGI',
     Svg: require('@site/static/img/2.svg').default,
     description: (
       <>
-        Learn AI Safety for self evolving AGI.
+        Follow the path from AI to build safe, self thinking AGI machines.
       </>
     ),
   },
@@ -26,7 +26,7 @@ const FeatureList = [
     Svg: require('@site/static/img/3.svg').default,
     description: (
       <>
-        Learn to Build & Evaluate Safe AI apps.
+        Learn and Build Generative AI apps.
       </>
     ),
   },
