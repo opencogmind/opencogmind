@@ -11,9 +11,12 @@ function HomepageHeader() {
   const {siteConfig} = useDocusaurusContext();
 
   const heroStyle = {
-    backgroundImage: 'url("/img/homepage.png")', // Replace with the path to your image
+    backgroundImage: 'url("/img/homepage.jpg")', // Replace with the path to your image
     padding: '14rem 2rem ' ,
     backgroundSize: 'cover',
+    backgroundRepeat: 'no-repeat',
+  
+    backgroundPosition:'center',
   };
   return (
     
