@@ -4,38 +4,35 @@ import styles from './styles.module.css';
 
 const FeatureList = [
   {
-    title: 'AI : Current State',
-    link: '/docs/aisafety',
+    title: 'AGI',
     Svg: require('@site/static/img/1.svg').default,
     description: (
       <>
-        Follow AI-current state-of-the-art and need for AGI.
+        Follow the path to AGI.
       </>
     ),
   },
   {
-    title: 'AI -) AGI',
-    link: '/docs/intro',
+    title: 'AI Safety',
     Svg: require('@site/static/img/2.svg').default,
     description: (
       <>
-        Follow the path from AI to build safe, self thinking AGI machines.
+        Learn AI Safety for self evolving AGI.
       </>
     ),
   },
   {
     title: 'Apps',
-    link: '/blog',
     Svg: require('@site/static/img/3.svg').default,
     description: (
       <>
-        Learn and Build Generative AI apps.
+        Learn to Build & Evaluate Safe AI apps.
       </>
     ),
   },
 ];
 
-function Feature({link, Svg, title, description}) {
+function Feature({Svg, title, description}) {
   return (
     
     <div className={clsx('col col--4', styles.flexContainer)}>
@@ -43,7 +40,7 @@ function Feature({link, Svg, title, description}) {
     <Svg className={styles.featureSvg} role="img" />
   </div>
   <div className={clsx('content', styles.flexItem1)}>
-    <a href={link}><h3>{title}</h3></a>
+    <h3>{title}</h3>
     <p>{description}</p>
   </div>
 </div>
