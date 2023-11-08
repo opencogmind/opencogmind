@@ -137,8 +137,9 @@ const config = {
         copyright: `Copyright © ${new Date().getFullYear()} OpenCogMind.com`,
       },
       prism: {
-        darkTheme: darkCodeTheme,
         theme: lightCodeTheme,
+        darkTheme: darkCodeTheme,
+        
       },
     },
 };
