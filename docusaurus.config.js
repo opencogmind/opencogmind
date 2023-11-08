@@ -6,7 +6,7 @@ const darkCodeTheme = require('prism-react-renderer/themes/dracula');
 
 /** @type {import('@docusaurus/types').Config} */
 const config = {
-title: 'Follow the path to Safe AGI',
+title: 'opencogmind',
 tagline: 'Build Safe thinking machines...',
   favicon: 'img/favicon.ico',
 
