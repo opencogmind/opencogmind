@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkopencogmind=self.webpackChunkopencogmind||[]).push([[6945],{6945:(e,n,c)=>{c.r(n)}}]);
