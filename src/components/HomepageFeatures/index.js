@@ -5,6 +5,7 @@ import styles from './styles.module.css';
 const FeatureList = [
   {
     title: 'AI : Current State',
+    link: '/docs/aisafety',
     Svg: require('@site/static/img/1.svg').default,
     description: (
       <>
@@ -14,6 +15,7 @@ const FeatureList = [
   },
   {
     title: 'AI -) AGI',
+    link: '/docs/intro',
     Svg: require('@site/static/img/2.svg').default,
     description: (
       <>
@@ -23,6 +25,7 @@ const FeatureList = [
   },
   {
     title: 'Apps',
+    link: '/blog',
     Svg: require('@site/static/img/3.svg').default,
     description: (
       <>
@@ -32,7 +35,7 @@ const FeatureList = [
   },
 ];
 
-function Feature({Svg, title, description}) {
+function Feature({link, Svg, title, description}) {
   return (
     
     <div className={clsx('col col--4', styles.flexContainer)}>
@@ -40,7 +43,7 @@ function Feature({Svg, title, description}) {
     <Svg className={styles.featureSvg} role="img" />
   </div>
   <div className={clsx('content', styles.flexItem1)}>
-    <h3>{title}</h3>
+    <a href={link}><h3>{title}</h3></a>
     <p>{description}</p>
   </div>
 </div>

@@ -86,7 +86,12 @@ const config = {
             position: 'left',
             label: 'AGI',
           },
-          
+          {
+            type: 'docSidebar',
+            sidebarId: 'tutorialSidebar',
+            position: 'left',
+            label: 'AI Safety',
+          },
           {to: '/blog', label: 'Apps', position: 'left'},
           {
             href: 'https://github.com/facebook/docusaurus',
