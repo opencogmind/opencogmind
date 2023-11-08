@@ -113,8 +113,8 @@ const config = {
               },
               
               {
-                label: 'AI:Safety',
-                to: '/docs/intro',
+                label: 'AI Safety',
+                to: '/docs/aisafety',
               },
 
             ],

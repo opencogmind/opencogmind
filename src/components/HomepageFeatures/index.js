@@ -17,7 +17,7 @@ const FeatureList = [
     Svg: require('@site/static/img/2.svg').default,
     description: (
       <>
-        Learn AI Safety for self evolving AGI machines.
+        Learn AI Safety for self evolving AGI.
       </>
     ),
   },
