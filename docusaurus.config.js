@@ -67,7 +67,7 @@ const config = {
 
       },
       // Replace with your project's social card
-     
+      defaultMode: 'dark',
       image: 'img/docusaurus-social-card.jpg',
       navbar: {
         title: 'OpenCogMind',
