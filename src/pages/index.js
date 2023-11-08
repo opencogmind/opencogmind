@@ -28,7 +28,7 @@ function HomepageHeader() {
           <Link
             className=" button button--secondary button--lg"
             to="/docs/intro" style={{color: 'black', border: '2px solid purple' }}>
-            Read about OpenCogMind
+            Explore
           </Link>
         </div>
       </div>
