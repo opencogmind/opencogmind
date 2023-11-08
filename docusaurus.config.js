@@ -82,6 +82,7 @@ const config = {
             position: 'left',
             label: 'AGI',
           },
+          
           {to: '/blog', label: 'Apps', position: 'left'},
           {
             href: 'https://github.com/facebook/docusaurus',

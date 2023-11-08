@@ -6,47 +6,48 @@
 
 /* You can override the default Infima variables here. */
 :root {
-  --ifm-color-primary: #2e8555;
-  --ifm-color-primary-dark: #29784c;
-  --ifm-color-primary-darker: #277148;
-  --ifm-color-primary-darkest: #205d3b;
-  --ifm-color-primary-light: #33925d;
-  --ifm-color-primary-lighter: #359962;
-  --ifm-color-primary-lightest: #3cad6e;
+  --ifm-color-primary: #4465D8;
+  --ifm-color-primary-dark: #4465D8;
+  --ifm-color-primary-darker: #4465D8;
+  --ifm-color-primary-darkest: #4465D8;
+  --ifm-color-primary-light: #4465D8;
+  --ifm-color-primary-lighter: #4465D8;
+  --ifm-color-primary-lightest: #4465D8;
   --ifm-code-font-size: 95%;
   --docusaurus-highlighted-code-line-bg: rgba(0, 0, 0, 0.1);
 }
 
 /* For readability concerns, you should choose a lighter palette in dark mode. */
 [data-theme='dark'] {
-  --ifm-color-primary: #25c2a0;
-  --ifm-color-primary-dark: #21af90;
-  --ifm-color-primary-darker: #1fa588;
-  --ifm-color-primary-darkest: #1a8870;
-  --ifm-color-primary-light: #29d5b0;
-  --ifm-color-primary-lighter: #32d8b4;
-  --ifm-color-primary-lightest: #4fddbf;
+  --ifm-color-primary: #4465D8;
+  --ifm-color-primary-dark: #4465D8;
+  --ifm-color-primary-darker: #4465D8;
+  --ifm-color-primary-darkest: #4465D8;
+  --ifm-color-primary-light: #4465D8;
+  --ifm-color-primary-lighter: #4465D8;
+  --ifm-color-primary-lightest: #4465D8;
   --docusaurus-highlighted-code-line-bg: rgba(0, 0, 0, 0.1);
-  --ifm-hero-background-color: #0e1823 !important;
-  --ifm-footer-background-color:#0e1823 !important;
-  --ifm-navbar-background-color: #0e1823 !important;
+  --ifm-hero-background-color: #000000 !important;
+  --ifm-footer-background-color:#000000 !important;
+  --ifm-navbar-background-color: #000000 !important;
 }
 [data-theme='dark'] {
 
   .navbar--fixed-top{
-    background-color: #0e1823 !important;
+    background-color: #000000 !important;
    }
 
 .heroBanner_src-pages-index-module{
-  background-color: #0e1823 !important;
+  background-color: #000000 !important;
 }
 .features_t9lD{
-  background-color: #0e1823 !important;
+  background-color: #000000 !important;
 }
 
 
 .features_src-components-HomepageFeatures-styles-module{
-   background-color: #0e1823 !important;
+   background-color: #000000 !important;
+   padding: 5rem 0rem important;
 }
 
 .hero__title{
@@ -58,5 +59,5 @@
 }
 .footer{
   border-top: 1.25px solid rgba(179, 179, 179) !important;
-  background-color: #0e1823 !important;
+  background-color: #000000 !important;
 }

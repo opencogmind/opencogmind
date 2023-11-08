@@ -11,20 +11,20 @@ function HomepageHeader() {
   const {siteConfig} = useDocusaurusContext();
 
   const heroStyle = {
-    backgroundImage: 'url("/img/1.png")', // Replace with the path to your image
-    padding: '24rem 2rem ' ,
+    backgroundImage: 'url("/img/homepage.png")', // Replace with the path to your image
+    padding: '14rem 2rem ' ,
     backgroundSize: 'cover',
   };
   return (
     
     <header className={clsx('hero ', styles.heroBanner)} style={heroStyle}>
       <div className="container">
-        <h1 style={{color: 'darkgrey', textAlign:'center' }} className="hero__title">{siteConfig.title}</h1>
-        <p style={{color: 'darkgrey', textAlign:'center' }} className="hero__subtitle">{siteConfig.tagline}</p>
+        <h1 style={{color: 'darkgrey', textAlign:'center', fontStyle:'Proxima Nova' }} className="hero__title">{siteConfig.title}</h1>
+        <p style={{color: 'darkgrey', textAlign:'center',fontStyle:'Proxima Nova' }} className="hero__subtitle">{siteConfig.tagline}</p>
         <div className={styles.buttons}>
           <Link
             className=" button button--secondary button--lg"
-            to="/docs/intro" style={{color: 'white', background: 'linear-gradient(to right, rgba(255, 0, 187, 0.72), rgba(212, 79, 212, 0.78) 51%)'}}>
+            to="/docs/intro" style={{color: 'black', border: '2px solid purple' }}>
             Read about OpenCogMind
           </Link>
         </div>
