@@ -6,8 +6,8 @@ const darkCodeTheme = require('prism-react-renderer/themes/dracula');
 
 /** @type {import('@docusaurus/types').Config} */
 const config = {
-  title: 'Follow the path from AI -) AGI',
-  tagline: 'To Build thinking machines...',
+  title: 'Follow the path to Safe AGI',
+  tagline: 'Build Safe thinking machines...',
   favicon: 'img/favicon.ico',
 
   // Set the production url of your site here
@@ -19,7 +19,7 @@ const config = {
   // GitHub pages deployment config.
   // If you aren't using GitHub pages, you don't need these.
   organizationName: 'opencogmind', // Usually your GitHub org/user name.
-  projectName: '', // Usually your repo name.
+  projectName: 'opencogmind', // Usually your repo name.
   deploymentBranch: "gh-pages",
 
   onBrokenLinks: 'throw',
