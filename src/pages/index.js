@@ -41,7 +41,7 @@ export default function Home() {
   const {siteConfig} = useDocusaurusContext();
   return (
     <Layout
-      title={`Hello to ${siteConfig.title}`}
+      title={`Hello to opencogmind`}
       description="Description will go into a meta tag in <head />">
       <HomepageHeader />
       <main>
