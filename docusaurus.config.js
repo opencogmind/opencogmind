@@ -11,7 +11,7 @@ tagline: 'Build Safe thinking machines...',
   favicon: 'img/favicon.ico',
 
   // Set the production url of your site here
-  url: 'https://opencogmind.netlify.app',
+  url: 'https://opencogmind.com',
   // Set the /<baseUrl>/ pathname under which your site is served
   // For GitHub pages deployment, it is often '/<projectName>/'
   baseUrl: '/',
@@ -36,6 +36,7 @@ tagline: 'Build Safe thinking machines...',
       /** @type {import('@docusaurus/preset-classic').Options} */
       ({
         docs: {
+          // routeBasePath:'/',
           sidebarPath: require.resolve('./sidebars.js'),
           // Please change this to your repo.
           // Remove this to remove the "edit this page" links.
@@ -88,11 +89,13 @@ tagline: 'Build Safe thinking machines...',
           },
           {
             type: 'docSidebar',
-            sidebarId: 'tutorialSidebar',
+            routeBasePath:'/',
+            sidebarId: 'mySidebar',
             position: 'left',
             label: 'AI Safety',
           },
           {to: '/blog', label: 'Apps', position: 'left'},
+          // {to: '/about', label: 'About', position: 'left'},
           {
             href: 'https://github.com/facebook/docusaurus',
             // label: 'GitHub',
