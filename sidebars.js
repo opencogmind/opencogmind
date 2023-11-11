@@ -49,6 +49,14 @@ const sidebars = {
     'aisafety/welcome',
     // Add more documentation links as needed
   ],},],
+
+  mySidebar2: [{type: 'category',
+  label: 'Apps',
+  items: [
+  
+    'Apps/welcome',
+    // Add more documentation links as needed
+  ],},],
 };
  
 module.exports = sidebars;
