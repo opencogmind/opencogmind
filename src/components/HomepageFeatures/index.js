@@ -5,21 +5,11 @@ import styles from './styles.module.css';
 const FeatureList = [
   {
     title: 'AI Safety',
-    link: '/aisafety',
+    link: '/aisafety/intro',
     Svg: require('@site/static/img/1.svg').default,
     description: (
       <>
         Learn AI Safety for self evolving AGI.
-      </>
-    ),
-  },
-  {
-    title: 'AI -) AGI',
-    link: '/agi/intro',
-    Svg: require('@site/static/img/2.svg').default,
-    description: (
-      <>
-        Follow the path to AGI.
       </>
     ),
   },
@@ -33,6 +23,17 @@ const FeatureList = [
       </>
     ),
   },
+  {
+    title: 'AI -) AGI',
+    link: '/agi/intro',
+    Svg: require('@site/static/img/2.svg').default,
+    description: (
+      <>
+        Follow the path to AGI.
+      </>
+    ),
+  },
+  
 ];
 
 function Feature({ link, Svg, title, description}) {

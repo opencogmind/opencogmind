@@ -47,7 +47,7 @@
 
 .features_src-components-HomepageFeatures-styles-module{
    background-color: #000000 !important;
-   padding: 5rem 0rem important;
+   padding: 4rem 0rem !important;
 }
 
 .hero__title{
@@ -60,4 +60,10 @@
 .footer{
   border-top: 1.25px solid rgba(179, 179, 179) !important;
   background-color: #000000 !important;
+}
+.footer__title{
+  color: rgb(130, 129, 239) !important;
+}
+.footer__copyright{
+  color: rgb(130, 129, 239) !important;
 }
