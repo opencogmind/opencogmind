@@ -15,7 +15,7 @@ const FeatureList = [
   },
   {
     title: 'Apps',
-    link: '/blog',
+    link: '/Apps/welcome',
     Svg: require('@site/static/img/3.svg').default,
     description: (
       <>
