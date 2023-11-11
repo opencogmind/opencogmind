@@ -15,7 +15,7 @@ const FeatureList = [
   },
   {
     title: 'AI -) AGI',
-    link: '/docs/intro',
+    link: '/docs/agi/intro',
     Svg: require('@site/static/img/2.svg').default,
     description: (
       <>

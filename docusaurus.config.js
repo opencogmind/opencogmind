@@ -111,12 +111,12 @@ tagline: 'Build Safe thinking machines...',
         items: [
         {
         label: 'AGI',
-        to: '/docs/intro',
+        to: '/docs/agi/intro',
         },
         
         {
         label: 'AI Safety',
-        to: '/docs/aisafety',
+        to: '/docs/aisafety/intro',
         },
         
         ],
