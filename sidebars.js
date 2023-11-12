@@ -45,10 +45,29 @@ const sidebars = {
   mySidebar: [{type: 'category',
   label: 'AI Safety',
   items: [
-    'aisafety/intro',
     'aisafety/welcome',
     // Add more documentation links as needed
-  ],},],
+  ],},
+  {
+    type: 'category',
+    label: 'tutorial-basics',
+    items: [
+      'aisafety/tutorial-basics/congratulations',
+      'aisafety/tutorial-basics/create-a-blog-post',
+      'aisafety/tutorial-basics/create-a-document',
+      'aisafety/tutorial-basics/create-a-page',
+      'aisafety/tutorial-basics/deploy-your-site',
+    ],
+  },
+  {
+    type: 'category',
+    label: 'tutorial-extras',
+    items: [
+      'aisafety/tutorial-extras/manage-docs-versions',
+      'aisafety/tutorial-extras/translate-your-site',
+  
+    ],
+  },],
 
   mySidebar2: [{type: 'category',
   label: 'Apps',
@@ -56,7 +75,27 @@ const sidebars = {
   
     'Apps/welcome',
     // Add more documentation links as needed
-  ],},],
+  ],},
+  {
+    type: 'category',
+    label: 'tutorial-basics',
+    items: [
+      'Apps/tutorial-basics/congratulations',
+      'Apps/tutorial-basics/create-a-blog-post',
+      'Apps/tutorial-basics/create-a-document',
+      'Apps/tutorial-basics/create-a-page',
+      'Apps/tutorial-basics/deploy-your-site',
+    ],
+  },
+  {
+    type: 'category',
+    label: 'tutorial-extras',
+    items: [
+      'Apps/tutorial-extras/manage-docs-versions',
+      'Apps/tutorial-extras/translate-your-site',
+  
+    ],
+  },],
 };
  
 module.exports = sidebars;
