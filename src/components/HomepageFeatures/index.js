@@ -5,7 +5,7 @@ import styles from './styles.module.css';
 const FeatureList = [
   {
     title: 'AI Safety',
-    link: '/aisafety/intro',
+    link: '/aisafety/welcome',
     Svg: require('@site/static/img/1.svg').default,
     description: (
       <>

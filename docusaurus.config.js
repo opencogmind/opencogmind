@@ -123,7 +123,7 @@ tagline: 'Build Safe thinking machines...',
         
         {
         label: 'AI Safety',
-        to: '/aisafety/intro',
+        to: '/aisafety/welcome',
         },
         
         ],
