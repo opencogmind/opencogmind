@@ -9,11 +9,11 @@ tags: [youtube, git,linkedin]
 Hello readers, my name is [Raghav Chalapathy](https://www.linkedin.com/in/raghav-chalapathy-phd-80984117/)
 I am excited to share my journey with you through this journal. I have always been passionate about writing and have decided to take the leap and start my blog. This journal will serve as a platform to document my personal and professional growth, share my experiences and insights, and connect with like-minded individuals. While in my quiet moments, my thoughts often wander to the enigma of the human brain and its mysteries waiting to be unraveled.
 
-## The Excitement of Non-Biological Brains
-I am particularly excited about the current developments in creating a non-biological brain. Renowned scientists are raising concerns about the existential threats to humanity posed by this advancement and are emphasizing the importance of AI safety. 
+## The Excitement of Digital Intelligence
+I am particularly excited about the current developments in creating a non-biological brain with digital intelligence. Renowned scientists are raising concerns about the existential threats to humanity posed by this advancement and are emphasizing the importance of AI safety. 
 
 ### AI Safety: A Critical Topic
-AI safety is the most critical topic of our times because, akin to Oppenheimer's moment of realization about the profound impact of nuclear technology, we stand at a pivotal juncture where the responsible development and management of AI could evolve into Artificial General Intelligence (AGI) eventually to ASI (Artificial Super Intelligence) which will determine the trajectory of humanity's future.
+AI safety is the most critical topic of our times because, akin to [Oppenheimer's moment](https://www.euronews.com/culture/2023/07/18/christopher-nolan-warns-that-ai-is-reaching-its-oppenheimer-moment#:~:text=Christopher%20Nolan%20warns%20that%20AI%20is%20reaching%20its%20'Oppenheimer%20moment',-Director%20Christopher%20Nolan&text=%22We%20have%20to%20hold%20people,atomic%20bomb%20could%20doom%20humanity) of realization about the profound impact of nuclear technology, we stand at a pivotal juncture where the responsible development and management of AI could evolve into Artificial General Intelligence (AGI) eventually to [Artificial Super Intelligence](https://www.lesswrong.com/posts/bLvc7XkSSnoqSukgy/a-brief-collection-of-hinton-s-recent-comments-on-agi-risk) which has the potential to determine the trajectory of humanity's future.
 
 #### My Journey in relation to AI Safety
 Anomaly detection and forecasting in AI safety serve as the digital equivalent of a canary in a coal mine, providing an essential early warning system that guards against the unforeseen and potentially dangerous paths of AI, ensuring its alignment with the safe and beneficial course charted for a safe.
