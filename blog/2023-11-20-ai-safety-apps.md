@@ -1,11 +1,11 @@
 ---
-slug: ai-safety-apps
-title: Shaping the Future of AI Safety: Few Technical Methods which may play pivotal role
+slug: ai-safety
+title: ai-safety
 authors: [raghav]
 tags: [opencogmind]
 ---
 
-# Primary Requirements for Safe AI Implementation
+# Shaping the Future of AI Safety: Few Technical Methods which may play pivotal role
 
 - **Guiding AI Behavior to align with Ethics and Values**
 - **Building Trust**
