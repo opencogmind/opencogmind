@@ -1,16 +1,16 @@
 ---
 slug: ai-safety
-title: Methods for AI Safety
+title: AI Safety Requirements
 authors: [raghav]
 tags: [opencogmind]
 ---
 
 # Shaping the Future of AI Safety: Few Technical Methods which may play pivotal role
-Few Methods Shaping the Future of AI Safety are :
-- **Guiding AI Behavior to align with Ethics and Values**
-- **Building Trust**
-- **Harm Prevention**
-- **Accurate Forecasting**
+Primary requirements Shaping the Future of AI Safety are :
+- **[Aligning with Ethics and Values](https://www.unesco.org/en/artificial-intelligence/recommendation-ethics)**
+- **[Building Trust](https://www.ibm.com/watson/advantage-reports/future-of-artificial-intelligence/building-trust-in-ai.html)**
+- **[Preventing Harm](https://cset.georgetown.edu/publication/adding-structure-to-ai-harm/)**
+
 
 ### Guiding AI Behavior to align with [Ethics and Values](https://www.unesco.org/en/artificial-intelligence/recommendation-ethics)
 In my view, **AI safety transcends mere technical robustness**; it embodies the principle of 
@@ -21,29 +21,22 @@ This overarching theme is crucial as we delve deeper into AI's capabilities and 
 Applications capable of detecting counterfeits and misinformation are essential in fostering public trust in AI systems, 
 a crucial factor for their widespread acceptance and integration into society.
 
-#### Methods for Counterfeiting Detection
+####  Counterfeiting Detection
 The advent of AI has brought about sophisticated techniques not only in creating but also in [detecting counterfeits](https://www.wsj.com/articles/ai-is-a-new-weapon-in-the-battle-against-counterfeits-11596805200).
  As an AI researcher, I emphasize the importance of AI systems that can **discern authenticity with high accuracy**, 
  a task crucial for maintaining trust in [digital transactions](https://stefanini.com/en/insights/news/artificial-intelligence-protect-luxury-brands-from-counterfeit) and intellectual property.
 
-#### Methods for Misinformation and Fake News Detection
+#### Misinformation and Fake News Detection
 In the current information age, AI's role in discerning truth from falsehood is paramount. 
 The development of algorithms capable of identifying misinformation is not just a technical challenge 
 but a **societal imperative**, given the far-reaching consequences of fake news.
 
-### [Harm Prevention](https://cset.georgetown.edu/publication/adding-structure-to-ai-harm/)
-By accurately identifying false information and counterfeit products, 
-these applications play a critical role in safeguarding 
-public interest and well-being.
-
-
-### [Accurate Forecasting](https://www.safe.ai/research)
-The essence of AI safety lies in ensuring that AI systems behave predictably and 
-beneficially, especially in [high-stakes scenarios](https://arxiv.org/abs/2206.15474). Accurate predictions are the 
+### [Prevention Harm](https://cset.georgetown.edu/publication/adding-structure-to-ai-harm/)
+By accurately forecasting information The essence of AI safety lies in ensuring that AI systems behave [predictably](https://www.safe.ai/research) and beneficially, especially in [high-stakes scenarios](https://arxiv.org/abs/2206.15474). Accurate forecasting is the 
 cornerstone of this endeavor, as they enable AI systems to anticipate potential risks and outcomes, 
 thereby preventing harm and ensuring reliable operation.
 
-Examples Illustrating the Importance of Accurate Predictions for AI Safety:
+Examples Illustrating the importance of accurate forecasting  for AI Safety and preventing catastrophe in society are :
 
 - **Financial Markets**: AI systems are increasingly used in financial markets for predicting market trends and automating trading. Accurate predictions 
 are essential to avoid erroneous trades that could lead to substantial financial losses or market instability. 
@@ -56,9 +49,8 @@ and pedestrians hinges on the vehicle's ability to make accurate predictions.
 
 
 ## How to achieve Guiding AI Behavior to align with Ethics and Values?
-
 I recognize the profound significance of Reinforcement Learning with Human Feedback (RLHF) techniques, particularly 
-in supporting the requirement Guiding AI Behavior to [align with Ethics and Values](https://www.youtube.com/watch?v=fqC3D-zNJUM)
+in supporting the requirement Guiding AI Behavior to [align with Ethics and Values](https://www.youtube.com/watch?v=fqC3D-zNJUM).
 Reinforcement Learning stands as a beacon of innovation in AI, merging the adaptability of machine learning with the nuanced 
 understanding of human judgment and react to rewards/punishments from the external environments. 
 In counterfeit detection, RLHF empowers AI systems to learn from human input, refining their ability to discern 
@@ -73,8 +65,7 @@ The importance of RLHF in these domains cannot be overstated.
 It represents a shift towards more ethical, accurate, and context-aware AI systems. By harnessing human insights, 
 RLHF not only enhances the technical capabilities of AI but also aligns it more closely with human 
 values and ethical considerations, a critical step in the responsible advancement of artificial intelligence though there are challenges 
-which need to be resolved as progress in [research continues](https://www.alignmentforum.org/posts/LqRD7sNcpkA9cmXLv/open-problems-and-fundamental-limitations-of-rlhf)
-
+which need to be resolved as progress in [research continues](https://www.alignmentforum.org/posts/LqRD7sNcpkA9cmXLv/open-problems-and-fundamental-limitations-of-rlhf).
 In conclusion, I will be focusing on the methods outlined in this blog post, closely following the latest
 research and the current state of the art in AI safety.
 My upcoming posts will present detailed analysis and examples 
