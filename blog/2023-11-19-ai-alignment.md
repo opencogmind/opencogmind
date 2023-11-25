@@ -21,8 +21,7 @@ gray areas of context, intent, and nuance that define real versus fake news. Thi
 The importance of RLHF in these domains cannot be overstated.
 It represents a shift towards more ethical, accurate, and context-aware AI systems. By harnessing human insights, 
 RLHF not only enhances the technical capabilities of AI but also aligns it more closely with human 
-values and ethical considerations, a critical step in the responsible advancement of artificial intelligence though there are challenges 
-which need to be resolved as progress in [research continues](https://www.alignmentforum.org/posts/LqRD7sNcpkA9cmXLv/open-problems-and-fundamental-limitations-of-rlhf).
+values and ethical considerations, a critical step in the responsible advancement of artificial intelligence though there are challenges which need to be resolved as progress in [research continues](https://www.alignmentforum.org/posts/LqRD7sNcpkA9cmXLv/open-problems-and-fundamental-limitations-of-rlhf).
 In conclusion, I will be focusing on the methods outlined in this blog post, closely following the latest
 research and the current state of the art in AI safety.
 My upcoming posts will present detailed analysis and examples 
