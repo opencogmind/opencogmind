@@ -101,6 +101,13 @@ tagline: 'Build Safe thinking machines...',
             position: 'left',
             label: 'Apps',
           },
+          {
+            type: 'docSidebar',
+            routeBasePath:'/',
+            sidebarId: 'mySidebar3',
+            position: 'left',
+            label: 'Book',
+          },
           {to: '/blog', label: 'Blogs', position: 'left'},
           // {to: '/about', label: 'About', position: 'left'},
           {
@@ -133,11 +140,11 @@ tagline: 'Build Safe thinking machines...',
         items: [
         {
         label: 'GitHub',
-        href: 'https://github.com/facebook/docusaurus',
+        href: 'https://github.com/opencogmind?tab=repositories',
         },
         {
         label: 'Youtube',
-        href: 'https://stackoverflow.com/questions/tagged/docusaurus',
+        href: 'https://www.youtube.com/channel/UCk9_mH7ozrdHz2ve4_I-avg',
         }
         ],
         },
