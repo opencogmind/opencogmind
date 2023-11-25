@@ -1,6 +1,6 @@
 ---
 slug: ai-safety
-title: ai-safety
+title: Few Methods Shaping the Future of AI Safety
 authors: [raghav]
 tags: [opencogmind]
 ---
@@ -14,17 +14,17 @@ tags: [opencogmind]
 
 ### Guiding AI Behavior to align with [Ethics and Values](https://www.unesco.org/en/artificial-intelligence/recommendation-ethics)
 In my view, **AI safety transcends mere technical robustness**; it embodies the principle of 
-creating  responsible [AI systems] (https://uit.stanford.edu/security/responsibleai) that harmoniously coexist with human values and societal norms.
+creating  responsible [AI systems](https://uit.stanford.edu/security/responsibleai) that harmoniously coexist with human values and societal norms.
 This overarching theme is crucial as we delve deeper into AI's capabilities and ensure 
 
-### [Building Trust] (https://www.ibm.com/watson/advantage-reports/future-of-artificial-intelligence/building-trust-in-ai.html)
+### [Building Trust](https://www.ibm.com/watson/advantage-reports/future-of-artificial-intelligence/building-trust-in-ai.html)
 Applications capable of detecting counterfeits and misinformation are essential in fostering public trust in AI systems, 
 a crucial factor for their widespread acceptance and integration into society.
 
 #### Methods for Counterfeiting Detection
 The advent of AI has brought about sophisticated techniques not only in creating but also in [detecting counterfeits](https://www.wsj.com/articles/ai-is-a-new-weapon-in-the-battle-against-counterfeits-11596805200).
  As an AI researcher, I emphasize the importance of AI systems that can **discern authenticity with high accuracy**, 
- a task crucial for maintaining trust in [digital transactions] (https://stefanini.com/en/insights/news/artificial-intelligence-protect-luxury-brands-from-counterfeit) and intellectual property.
+ a task crucial for maintaining trust in [digital transactions](https://stefanini.com/en/insights/news/artificial-intelligence-protect-luxury-brands-from-counterfeit) and intellectual property.
 
 #### Methods for Misinformation and Fake News Detection
 In the current information age, AI's role in discerning truth from falsehood is paramount. 
@@ -58,14 +58,14 @@ and pedestrians hinges on the vehicle's ability to make accurate predictions.
 ## How to achieve Guiding AI Behavior to align with Ethics and Values?
 
 I recognize the profound significance of Reinforcement Learning with Human Feedback (RLHF) techniques, particularly 
-in supporting the requirement Guiding AI Behavior to [align with Ethics and Values] (https://www.youtube.com/watch?v=fqC3D-zNJUM)
+in supporting the requirement Guiding AI Behavior to [align with Ethics and Values](https://www.youtube.com/watch?v=fqC3D-zNJUM)
 Reinforcement Learning stands as a beacon of innovation in AI, merging the adaptability of machine learning with the nuanced 
 understanding of human judgment and react to rewards/punishments from the external environments. 
 In counterfeit detection, RLHF empowers AI systems to learn from human input, refining their ability to discern 
 subtle differences between authentic and fake products.
 This human-in-the-loop approach ensures that the AI models stay updated with the latest counterfeiting tactics, 
 which are often too intricate or novel for traditional algorithms to catch.
-In the battle against misinformation, [RLHF is equally transformative] (https://arxiv.org/abs/2303.02891). 
+In the battle against misinformation, [RLHF is equally transformative](https://arxiv.org/abs/2303.02891). 
 It allows AI systems to understand the complex, often context-dependent nature of truth and falsehood in information. 
 By incorporating feedback from human fact-checkers and subject matter experts, RLHF-trained models can navigate the 
 gray areas of context, intent, and nuance that define real versus fake news. This is crucial in an era where misinformation can have rapid and widespread impacts on public opinion and societal stability.
