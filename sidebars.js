@@ -93,9 +93,15 @@ const sidebars = {
     items: [
       'Apps/Forecasting/manage-docs-versions',
       'Apps/Forecasting/translate-your-site',
-  
     ],
-  },],
+  },  
+  {
+    type: 'category',
+    label: 'Reinforcement Learning',
+    items: [
+      'Apps/Reinforcement Learning/RLHF/manage-docs-versions'
+    ],
+  }],
   mySidebar3: [{type: 'category',
   label: 'Book',
   items: [
