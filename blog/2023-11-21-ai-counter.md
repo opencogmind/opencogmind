@@ -1,6 +1,6 @@
 ---
-slug: ai-alignment
-title: AI's Dual-Use Problem: Counterfeits
+slug: ai-counter
+title:  AI's Dual Use Problem Counterfeits
 authors: [raghav]
 tags: [arxiv, git,linkedin]
 ---
