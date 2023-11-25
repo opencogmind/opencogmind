@@ -1,4 +1,4 @@
-# 10 Arguments Why AI is The Existential Threat
+# Book
 
 ## Raghav Chalapathy
 
