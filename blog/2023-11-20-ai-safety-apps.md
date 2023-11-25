@@ -1,12 +1,12 @@
 ---
 slug: ai-safety
-title: Few Methods Shaping the Future of AI Safety
+title: Methods for AI Safety
 authors: [raghav]
 tags: [opencogmind]
 ---
 
 # Shaping the Future of AI Safety: Few Technical Methods which may play pivotal role
-
+Few Methods Shaping the Future of AI Safety are :
 - **Guiding AI Behavior to align with Ethics and Values**
 - **Building Trust**
 - **Harm Prevention**
