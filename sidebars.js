@@ -80,19 +80,21 @@ const sidebars = {
     type: 'category',
     label: 'Anomaly-Detection',
     items: [
-      'Apps/Anomaly-Detection/congratulations',
-      'Apps/Anomaly-Detection/create-a-blog-post',
-      'Apps/Anomaly-Detection/create-a-document',
-      'Apps/Anomaly-Detection/create-a-page',
-      'Apps/Anomaly-Detection/deploy-your-site',
+      'Apps/Anomaly-Detection/welcomead',
+      'Apps/Anomaly-Detection/Detect-CounterFiets/create-a-page',
+      'Apps/Anomaly-Detection/Detect Time Series Anomalies/create-a-document',
+      'Apps/Anomaly-Detection/Detect FakeNews/create-a-document',
+      'Apps/Anomaly-Detection/Find God Particle/create-a-blog-post',
     ],
   },
   {
     type: 'category',
     label: 'Forecasting',
     items: [
-      'Apps/Forecasting/manage-docs-versions',
-      'Apps/Forecasting/translate-your-site',
+      
+      'Apps/Forecasting/welcomeforecasting',
+      'Apps/Forecasting/Finance Time Series/Stock Price Prediction/manage-docs-versions',
+      'Apps/Forecasting/Demand Forecasting/translate-your-site',
     ],
   },  
   {
