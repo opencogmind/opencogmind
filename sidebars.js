@@ -108,7 +108,7 @@ const sidebars = {
   label: 'Book',
   items: [
   
-    'Book/publish',
+    'book/publish',
     // Add more documentation links as needed
   ],}
   
