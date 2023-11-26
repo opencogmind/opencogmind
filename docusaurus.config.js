@@ -6,12 +6,12 @@ const darkCodeTheme = require('prism-react-renderer/themes/dracula');
 
 /** @type {import('@docusaurus/types').Config} */
 const config = {
-title: 'Follow the path to Safe AGI',
-tagline: 'Build Safe thinking machines...',
+title: 'MoonBase',
+tagline: "How to find out your child's interest?",
   favicon: 'img/favicon.ico',
 
   // Set the production url of your site here
-  url: 'https://opencogmind.com',
+  url: 'http://localhost',
   // Set the /<baseUrl>/ pathname under which your site is served
   // For GitHub pages deployment, it is often '/<projectName>/'
   baseUrl: '/',
@@ -100,6 +100,13 @@ tagline: 'Build Safe thinking machines...',
             sidebarId: 'mySidebar2',
             position: 'left',
             label: 'Apps',
+          },
+          {
+            type: 'docSidebar',
+            routeBasePath:'/',
+            sidebarId: 'demo',
+            position: 'left',
+            label: 'New Demo',
           },
           {to: '/blog', label: 'Blogs', position: 'left'},
           // {to: '/about', label: 'About', position: 'left'},

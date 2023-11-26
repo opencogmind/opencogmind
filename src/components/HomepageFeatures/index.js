@@ -4,8 +4,8 @@ import styles from './styles.module.css';
 
 const FeatureList = [
   {
-    title: 'AI Safety',
-    link: '/aisafety/welcome',
+    title: 'Events',
+    link: '/events/welcome',
     Svg: require('@site/static/img/1.svg').default,
     description: (
       <>
@@ -14,8 +14,8 @@ const FeatureList = [
     ),
   },
   {
-    title: 'Apps',
-    link: '/Apps/welcome',
+    title: 'Podcasts',
+    link: '/Podcasts/welcome',
     Svg: require('@site/static/img/3.svg').default,
     description: (
       <>
@@ -24,8 +24,8 @@ const FeatureList = [
     ),
   },
   {
-    title: 'AI -) AGI',
-    link: '/agi/intro',
+    title: 'MoonBase',
+    link: '/moonbase/intro',
     Svg: require('@site/static/img/2.svg').default,
     description: (
       <>

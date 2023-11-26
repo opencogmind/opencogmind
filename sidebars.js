@@ -34,6 +34,14 @@ const sidebars = {
   },
   {
     type: 'category',
+    label: 'demos',
+    items: [
+      'agi/demos/intro',
+      
+    ],
+  },
+  {
+    type: 'category',
     label: 'tutorial-extras',
     items: [
       'agi/tutorial-extras/manage-docs-versions',
@@ -96,6 +104,12 @@ const sidebars = {
   
     ],
   },],
+  
+  demo: [{ type:'category', label:'demo',
+          items:[
+            'demo/intro',
+          ],},],
+  
 };
  
 module.exports = sidebars;

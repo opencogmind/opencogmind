@@ -11,7 +11,7 @@ function HomepageHeader() {
   const {siteConfig} = useDocusaurusContext();
 
   const heroStyle = {
-    backgroundImage: 'url("/img/homepage.jpg")', // Replace with the path to your image
+    backgroundImage: 'url("/img/homepage.png")', // Replace with the path to your image
     padding: '18rem 2rem ' ,
     backgroundSize: 'cover',
     backgroundRepeat: 'no-repeat',
@@ -28,7 +28,7 @@ function HomepageHeader() {
           <Link
             className=" button button--secondary button--lg"
             to="/agi/intro" style={{color: 'black', border: '2px solid purple' }}>
-            Explore
+            Findout
           </Link>
         </div>
       </div>
