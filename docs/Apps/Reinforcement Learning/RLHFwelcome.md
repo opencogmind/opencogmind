@@ -2,4 +2,4 @@
 sidebar_position: 2
 ---
 
-# APPS Intro
+# RLHF & AI Safety
