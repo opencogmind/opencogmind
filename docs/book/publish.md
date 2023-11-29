@@ -1,6 +1,6 @@
 # Upcoming Book: TEN ARGUMENTS FOR  WHY THERE IS EXISTENTIAL THREAT OF AI RIGHT NOW
 
-![Book Cover](URL-to-your-book-cover-image-if-available)
+![Book Cover](Under Construction...)
 
 **Title:** *TEN ARGUMENTS FOR  WHY THERE IS EXISTENTIAL THREAT OF AI RIGHT NOW*  
 **Expected Release Date:** 02, 2024
@@ -18,7 +18,7 @@ In the heart of this book lies a profound concern for the future of humanity—a
 
 ### Progress Updates
 - **[28-11-2023]**: [Introduction Chapter Completed.]
-- **[Date]**: [Another update]
+<!-- - **[Date]**: [Another update] -->
 
 Stay tuned for more updates as the book progresses towards completion!
 
