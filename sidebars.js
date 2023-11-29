@@ -18,18 +18,19 @@ const sidebars = {
     type: 'category',
     label: 'AGI',
     items: [
-      'agi/intro',
+      'agi/State-Of-The-Art',
     ],
   },
   {
     type: 'category',
     label: 'History',
     items: [
-      'agi/History/congratulations',
-      'agi/History/create-a-blog-post',
-      'agi/History/create-a-document',
-      'agi/History/create-a-page',
-      'agi/History/deploy-your-site',
+      'agi/Fundamentals/Definitions',
+      'agi/Fundamentals/Principles-Of-AGI',
+      'agi/Fundamentals/Levels-Of-AGI',
+      'agi/Fundamentals/Evaluating-AGI',
+      'agi/Fundamentals/Risk-Assessment',
+      'agi/Fundamentals/AutonomyVsCapability',
     ],
   },
   {
@@ -108,7 +109,7 @@ const sidebars = {
   label: 'Book',
   items: [
   
-    'book/publish',
+    'Book/publish',
     // Add more documentation links as needed
   ],}
   

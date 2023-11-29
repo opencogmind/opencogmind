@@ -13,7 +13,7 @@ $ yarn
 ```
 $ yarn start
 ```
-
+docker run -it --env-file=.env -e "CONFIG=$(cat ./config.json | jq -r tostring)" algolia/docsearch-scraper
 This command starts a local development server and opens up a browser window. Most changes are reflected live without having to restart the server.
 
 ### Build

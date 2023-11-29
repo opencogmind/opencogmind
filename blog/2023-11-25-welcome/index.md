@@ -13,7 +13,12 @@ I am excited to share my journey with you through this journal. I have always be
 I am particularly excited about the current developments in creating a non-biological brain with digital intelligence. Renowned scientists are raising concerns about the existential threats to humanity posed by this advancement and are emphasizing the importance of AI safety. 
 
 ### AI Safety: A Critical Topic
-AI safety is the most critical topic of our times because, akin to [Oppenheimer's moment](https://www.euronews.com/culture/2023/07/18/christopher-nolan-warns-that-ai-is-reaching-its-oppenheimer-moment#:~:text=Christopher%20Nolan%20warns%20that%20AI%20is%20reaching%20its%20'Oppenheimer%20moment',-Director%20Christopher%20Nolan&text=%22We%20have%20to%20hold%20people,atomic%20bomb%20could%20doom%20humanity) of realization about the profound impact of nuclear technology, we stand at a pivotal juncture where the responsible development and management of AI could evolve into Artificial General Intelligence (AGI) eventually to [Artificial Super Intelligence](https://www.lesswrong.com/posts/bLvc7XkSSnoqSukgy/a-brief-collection-of-hinton-s-recent-comments-on-agi-risk) which has the potential to determine the trajectory of humanity's future.
+
+
+We are currently at a crucial point in time, similar to when [Oppenheimer's moment](https://www.euronews.com/culture/2023/07/18/christopher-nolan-warns-that-ai-is-reaching-its-oppenheimer-moment#:~:text=Christopher%20Nolan%20warns%20that%20AI%20is%20reaching%20its%20'Oppenheimer%20moment',-Director%20Christopher%20Nolan&text=%22We%20have%20to%20hold%20people,atomic%20bomb%20could%20doom%20humanity) realized the significant impact of nuclear technology, emphasizing the importance of responsibly developing artificial intelligence.
+
+The responsible development of AI requires utmost attention to AI safety. This is crucial because AI has the potential to evolve into Artificial General Intelligence (AGI) and eventually into [Artificial Super Intelligence](https://www.lesswrong.com/posts/bLvc7XkSSnoqSukgy/a-brief-collection-of-hinton-s-recent-comments-on-agi-risk). Such advancements in AI will significantly influence the future trajectory of humanity, a concern echoed by prominent experts in the field.
+
 
 #### My Journey in relation to AI Safety
 Anomaly detection and forecasting in AI safety serve as the digital equivalent of a canary in a coal mine, providing an essential early warning system that guards against the unforeseen and potentially dangerous paths of AI, ensuring its alignment with the safe and beneficial course charted for a safe.
