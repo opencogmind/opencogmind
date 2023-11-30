@@ -2,7 +2,7 @@
 sidebar_position: 6
 ---
 
-# Delicately Balancing  Capability and Autonomy of AGI
+# AGI: Capability Vs Autonomy
 ![Capability Vs Autonomy](https://github.com/opencogmind/authorprof/blob/main/AGI/meme/MultitaskingVsPowerSaveMode.png 'Autonomous decisions made by AGI Might not be in the best of humans! ')
 The main point here is that as AI becomes more advanced, especially AGI, we need to think carefully about how much independence it should have. This depends on the AI's ability to understand and interact in complex, human-like ways. It's also important to keep improving how humans and AI communicate and work together and make sure AGI is safe and aligns with human values and ethics.
 

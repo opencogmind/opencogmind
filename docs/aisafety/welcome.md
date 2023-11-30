@@ -2,8 +2,7 @@
 sidebar_position: 1
 ---
 
-
-### The Risks and Safety of AI
+### Why need AI Safety?
 Artificial Intelligence (AI) has evolved rapidly, raising significant concerns about its potential catastrophic risks. Understanding and managing these risks is crucial for harnessing AI's potential for societal betterment.
 
 -*1. Malicious Use of AI*
