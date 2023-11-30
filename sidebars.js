@@ -37,8 +37,7 @@ const sidebars = {
     type: 'category',
     label: 'Research',
     items: [
-      'agi/Research/manage-docs-versions',
-      'agi/Research/translate-your-site',
+      'agi/Research/Sparks-Of-AGI'
   
     ],
   },],
@@ -74,7 +73,7 @@ const sidebars = {
   label: 'Apps',
   items: [
   
-    'Apps/welcome',
+    'Apps/welcomeapps.',
     // Add more documentation links as needed
   ],},
   {
@@ -82,10 +81,10 @@ const sidebars = {
     label: 'Anomaly-Detection',
     items: [
       'Apps/Anomaly-Detection/welcomead',
-      'Apps/Anomaly-Detection/Detect-CounterFiets/create-a-page',
-      'Apps/Anomaly-Detection/Detect Time Series Anomalies/create-a-document',
-      'Apps/Anomaly-Detection/Detect FakeNews/create-a-document',
-      'Apps/Anomaly-Detection/Find God Particle/create-a-blog-post',
+      'Apps/Anomaly-Detection/Detect FakeNews/01-detectFakeNews',
+      'Apps/Anomaly-Detection/Detect Time Series Anomalies/01-timeseriesAnomaly',
+      'Apps/Anomaly-Detection/Detect-CounterFiets/01-Detect-Couterfiets',
+      'Apps/Anomaly-Detection/Find God Particle/SearchForGodParticle',
     ],
   },
   {
@@ -94,15 +93,17 @@ const sidebars = {
     items: [
       
       'Apps/Forecasting/welcomeforecasting',
-      'Apps/Forecasting/Finance Time Series/Stock Price Prediction/manage-docs-versions',
-      'Apps/Forecasting/Demand Forecasting/translate-your-site',
+      'Apps/Forecasting/Demand Forecasting/DF_App1',
+      'Apps/Forecasting/Finance Time Series/Stock Price Prediction/StockForecastingApp01',
+      'Apps/Forecasting/Finance Time Series/Stock Price Prediction/StockForecastingApp02'
     ],
   },  
   {
     type: 'category',
     label: 'Reinforcement Learning',
     items: [
-      'Apps/Reinforcement Learning/RLHF/manage-docs-versions'
+      'Apps/Reinforcement Learning/RLHF/RHLFwelcome',
+      'Apps/Reinforcement Learning/RLHF/RHLF1'
     ],
   }],
   mySidebar3: [{type: 'category',
