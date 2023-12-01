@@ -52,19 +52,20 @@ const sidebars = {
     type: 'category',
     label: 'AI-Safety-101',
     items: [
-      'aisafety/AI-Safety-101/congratulations',
-      'aisafety/AI-Safety-101/create-a-blog-post',
-      'aisafety/AI-Safety-101/create-a-document',
-      'aisafety/AI-Safety-101/create-a-page',
-      'aisafety/AI-Safety-101/deploy-your-site',
+      'aisafety/AI-Safety-101/01-Define-Risk/01-Define-Risk',
+      'aisafety/AI-Safety-101/02-Observability-Of-Risk/DetermineAttackResistance',
+      'aisafety/AI-Safety-101/03-Monitor-Risk/AnomalyDetection',
+      'aisafety/AI-Safety-101/03-Monitor-Risk/Determining-Emergent-Behaviour',
+      'aisafety/AI-Safety-101/04-Control-Risk/IncorporatingHonesty',
+      'aisafety/AI-Safety-101/05-System-Level-AI-Safety/Systemic-AISafety',
+      'aisafety/AI-Safety-101/X-Risks/ArgumentsForX-Risks'
     ],
   },
   {
     type: 'category',
     label: 'Research',
     items: [
-      'aisafety/Research/manage-docs-versions',
-      'aisafety/Research/translate-your-site',
+      'aisafety/Research/Research1'
   
     ],
   },],
