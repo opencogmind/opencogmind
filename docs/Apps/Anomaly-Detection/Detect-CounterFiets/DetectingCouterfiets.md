@@ -4,10 +4,5 @@ sidebar_position: 1
 
 # Create a Page
 
-Add **Markdown or React** files to `src/pages` to create a **standalone page**:
-
-- `src/pages/index.js` → `localhost:3000/`
-- `src/pages/foo.md` → `localhost:3000/foo`
-- `src/pages/foo/bar.js` → `localhost:3000/foo/bar`
-
-## Create your first React Page
+https://www.youtube.com/watch?v=ot3fuoika3I&t=836s
+Architecture for Anomaly Detection system how should it be and any code related to the same 
