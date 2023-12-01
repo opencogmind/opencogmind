@@ -52,7 +52,8 @@ const sidebars = {
     type: 'category',
     label: 'AI-Safety-101',
     items: [
-      'aisafety/AI-Safety-101/01-Define-Risk/01-Define-Risk',
+      'aisafety/AI-Safety-101/AI-Safety-Intro',
+      'aisafety/AI-Safety-101/01-Define-Risk/01-Define-Risk/RiskDefinition',
       'aisafety/AI-Safety-101/02-Observability-Of-Risk/DetermineAttackResistance',
       'aisafety/AI-Safety-101/03-Monitor-Risk/AnomalyDetection',
       'aisafety/AI-Safety-101/03-Monitor-Risk/Determining-Emergent-Behaviour',
@@ -74,7 +75,7 @@ const sidebars = {
   label: 'Apps',
   items: [
   
-    'Apps/welcomeapps.',
+    'Apps/welcomeapps',
     // Add more documentation links as needed
   ],},
   {
