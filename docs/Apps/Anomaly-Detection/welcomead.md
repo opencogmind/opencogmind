@@ -13,7 +13,6 @@ As AI continues to evolve and integrate into various aspects of our daily lives,
 Anomaly Detection in AI is essentially like having a highly skilled detective within the system. It continuously monitors AI behavior, looking for any deviations from normal patterns that could indicate potential problems. These could be glitches, unexpected responses, or any kind of irregularities that, if left unchecked, could lead to errors, accidents, or even catastrophic failures.
 
 ### Why should we care about Anomaly Detection?
-
 Now, you might wonder, why is Anomaly Detection so important? The answer is simple yet profound. As AI systems become more complex and autonomous, the chances of unforeseen errors increase. These errors, or anomalies, can range from minor inconveniences to major safety hazards, especially in critical applications like autonomous vehicles, medical diagnostics, or financial systems.
 
 #### Real world scenarios's : Use Cases of Anomaly Detection

@@ -53,12 +53,12 @@ const sidebars = {
     label: 'AI-Safety-101',
     items: [
       'aisafety/AI-Safety-101/AI-Safety-Intro',
-      'aisafety/AI-Safety-101/01-Define-Risk/01-Define-Risk/RiskDefinition',
-      'aisafety/AI-Safety-101/02-Observability-Of-Risk/DetermineAttackResistance',
-      'aisafety/AI-Safety-101/03-Monitor-Risk/AnomalyDetection',
-      'aisafety/AI-Safety-101/03-Monitor-Risk/Determining-Emergent-Behaviour',
-      'aisafety/AI-Safety-101/04-Control-Risk/IncorporatingHonesty',
-      'aisafety/AI-Safety-101/05-System-Level-AI-Safety/Systemic-AISafety',
+      'aisafety/AI-Safety-101/Define-Risk/RiskDefinition',
+      'aisafety/AI-Safety-101/Monitor-Risk/Determining-Emergent-Behaviour',
+      'aisafety/AI-Safety-101/Monitor-Risk/AnomalyDetection',
+      'aisafety/AI-Safety-101/Observability-Of-Risk/DetermineAttackResistance',   
+      'aisafety/AI-Safety-101/Operations-Control-Risk/IncorporatingHonesty',
+      'aisafety/AI-Safety-101/System-Level-AI-Safety/Systemic-AISafety',
       'aisafety/AI-Safety-101/X-Risks/ArgumentsForX-Risks'
     ],
   },
@@ -83,9 +83,9 @@ const sidebars = {
     label: 'Anomaly-Detection',
     items: [
       'Apps/Anomaly-Detection/welcomead',
-      'Apps/Anomaly-Detection/Detect-FakeNews/01-detectFakeNews',
-      'Apps/Anomaly-Detection/Detect-TimeSeries-Anomalies/01-timeseriesAnomaly',
-      'Apps/Anomaly-Detection/Detect-CounterFiets/01-Detect-Couterfiets',
+      'Apps/Anomaly-Detection/Detect-FakeNews/detectFakeNews',
+      'Apps/Anomaly-Detection/Detect-TimeSeries-Anomalies/timeseriesAnomaly',
+      'Apps/Anomaly-Detection/Detect-CounterFiets/DetectingCouterfiets',
       'Apps/Anomaly-Detection/Find-God-Particle/SearchForGodParticle',
     ],
   },
@@ -104,8 +104,8 @@ const sidebars = {
     type: 'category',
     label: 'Reinforcement-Learning',
     items: [
-      'Apps/Reinforcement-Learning/RLHF/RHLFwelcome',
-      'Apps/Reinforcement-Learning/RLHF/RHLF1'
+      'Apps/Reinforcement-Learning/welcomeRHLF',
+      'Apps/Reinforcement-Learning/RLHF/RLHFIntro'
     ],
   }],
   mySidebar3: [{type: 'category',
