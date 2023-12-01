@@ -5,6 +5,12 @@ sidebar_position: 1
 
 # Anomalies within Time Series
 
+https://www.youtube.com/watch?v=ot3fuoika3I&t=836s
+
+Figures and pictures may be taken from here 
+https://www.notion.so/OpenCogMind-com-a6131e035bee4ac08bb6263cb6307e1f?p=056d08199a524bc88db90f1b2c600129&pm=s
+
+
 Welcome to [Your Blog Name]! I'm [Your Name], and today I want to share something special with you.
 In today's post, we'll explore [Topic] which has been a hot topic lately. I've put together some insightful information and exciting videos that I'm sure you'll love!
 

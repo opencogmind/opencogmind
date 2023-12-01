@@ -4,6 +4,10 @@ sidebar_position: 1
 
 # [Title of Your Featured Video]
 
+Material for defining the observability can be picked from here
+https://arize.com/wp-content/uploads/2021/11/Machine-Learning-Observability-101-_-Arize-AI.pdf
+
+
 Welcome to [Your Blog Name]! I'm [Your Name], and today I want to share something special with you.
 In today's post, we'll explore [Topic] which has been a hot topic lately. I've put together some insightful information and exciting videos that I'm sure you'll love!
 
