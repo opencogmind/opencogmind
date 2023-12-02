@@ -2,8 +2,6 @@
 sidebar_position: 2
 ---
 
-# Understanding AGI from First Principles 
-
 ### Focus on Capabilities, Not Processes: 
 AGI should be judged by what it can do, not how it does it. This means AGI doesn't need to think or understand like humans, nor does it need consciousness or feelings.
 

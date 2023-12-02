@@ -2,7 +2,7 @@
 sidebar_position: 1
 ---
 
-# GPT-4:Sparks Of  Artificial General Intelligence
+# Sparks Of AGI: GPT-4
 This notes presents a brief summary and contributions of the paper [Sparks of Artificial General Intelligence:Early experiments with GPT-4](https://arxiv.org/pdf/2303.12712.pdf)
 
 #### What is GPT-4?

@@ -23,7 +23,7 @@ const sidebars = {
   },
   {
     type: 'category',
-    label: 'History',
+    label: 'Fundamentals',
     items: [
       'agi/Fundamentals/Definitions',
       'agi/Fundamentals/Principles-Of-AGI',
