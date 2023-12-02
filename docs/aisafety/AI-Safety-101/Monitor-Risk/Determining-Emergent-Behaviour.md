@@ -5,6 +5,17 @@ sidebar_position: 1
 
 # [Title of Your Featured Video]
 
+https://arize.com/blog/data-quality-monitoring/
+
+https://arize.com/blog/solving-data-quality-with-ml-observability-and-data-operations/
+
+https://arize.com/blog-course/explainability-xai-primer/
+https://arize.com/blog/monitor-unstructured-data-with-arize/
+https://arize.com/blog-course/embeddings-meaning-examples-and-how-to-compute/
+https://arize.com/blog-course/reduction-of-dimensionality-top-techniques/
+https://arize.com/blog-course/embedding-versioning/
+
+
 Welcome to [Your Blog Name]! I'm [Your Name], and today I want to share something special with you.
 In today's post, we'll explore [Topic] which has been a hot topic lately. I've put together some insightful information and exciting videos that I'm sure you'll love!
 

@@ -4,6 +4,8 @@ sidebar_position: 1
 
 
 # [Title of Your Featured Video]
+https://arize.com/blog-course/explainability-techniques-shap/
+https://arize.com/blog/understanding-bias-in-ml-models/
 
 Welcome to [Your Blog Name]! I'm [Your Name], and today I want to share something special with you.
 In today's post, we'll explore [Topic] which has been a hot topic lately. I've put together some insightful information and exciting videos that I'm sure you'll love!

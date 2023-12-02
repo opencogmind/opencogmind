@@ -6,6 +6,21 @@ sidebar_position: 1
 
 Material for defining the observability can be picked from here
 https://arize.com/wp-content/uploads/2021/11/Machine-Learning-Observability-101-_-Arize-AI.pdf
+https://arize.com/blog-course/model-evaluation-metrics/
+https://arize.com/wp-content/uploads/2021/12/The-Definitive-Machine-Learning-Observability-Checklist-_-Arize-AI.pdf
+https://arize.com/blog/beyond-monitoring-the-rise-of-observability/
+https://arize.com/blog/the-only-3-ml-tools-you-need/
+https://arize.com/blog-course/performance-tracing-machine-learning/
+https://arize.com/blog/monitor-your-model-in-production/
+https://arize.com/blog-course/service-monitoring-metrics/
+https://arize.com/blog/take-my-drift-away/
+https://arize.com/blog/model-concept-data-drift/
+
+https://arize.com/blog-course/explainability-techniques-shap/
+https://arize.com/blog/understanding-bias-in-ml-models/
+https://arize.com/blog/machine-learning-bias-tracing/
+https://arize.com/blog/the-chronicles-of-ai-ethics-the-man-the-machine-and-the-black-box/
+
 
 
 Welcome to [Your Blog Name]! I'm [Your Name], and today I want to share something special with you.

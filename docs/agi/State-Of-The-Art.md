@@ -2,7 +2,7 @@
 sidebar_position: 1
 ---
 
-# State of the Art AGI: Who will win the AGI Race?
+## State of the Art: AGI
 With leaders of the countries citing the [influence of AI](https://www.whitehouse.gov/wp-content/uploads/2022/12/TTC-EC-CEA-AI-Report-12052022-1.pdf), now the race is off to private players with high-stakes race to develop Artificial General Intelligence (AGI), several tech giants are vying for the lead.
 
 > Russian President Vladimir Putin, "Whoever becomes the leader in [artificial intelligence] will become the ruler of the world.
@@ -10,13 +10,13 @@ With leaders of the countries citing the [influence of AI](https://www.whitehous
 > Chinese President Xi "Space, AI, and quantum computing and communication are China’s top technology priorities".
 
 
-### Definition of Artificial General Intelligence (AGI): 
+### Artificial General Intelligence (AGI): 
 AGI is one of the most disputed concepts in technology. There are several definitions of AGI and more recently researchers from google deepmind have proposed a taxonomy for [AGI](https://arxiv.org/pdf/2311.02462.pdf).
 AGI may be regarded as form of AI that can understand, learn, and apply its intelligence to solve any problem, is considered the holy grail of AI research. Let's examine the key players: Google (with Gemini/Bard and DeepMind), Meta, OpenAI, Microsoft, and Amazon, and assess their progress and strategies in this ambitious endeavor.
 ![AGI Race](https://github.com/opencogmind/authorprof/blob/main/AGI/meme/agirace.png "Race to Achieve AGI")
 
 
-### Google: Gemini/Bard and DeepMind
+### Google DeepMind
 Google Deepmind's vision is that in the coming years, AI — and ultimately artificial general intelligence (AGI) — has the potential to drive one of the greatest transformations in history.
 Google's approach to AGI is two-pronged. With Gemini/Bard, Google is focusing on leveraging its vast data and search capabilities to create [responsible AI](https://ai.google/responsibility/principles/]) that can understand and interact with information in a more human-like way. Meanwhile, DeepMind, known for its groundbreaking work in the field of deep reinforcement learning - a combination of deep learning and reinforcement learning - and using games to push the boundaries of AI capabilities, as seen in their development of AlphaGo and [AlphaFold](https://deepmind.google/about/)
 So one players approach is to leverage a deep reinforcement based reward and policy learning framework to achieve generalization of AI tasks performed 
