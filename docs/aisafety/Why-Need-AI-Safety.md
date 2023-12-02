@@ -10,7 +10,7 @@ The intentional misuse of AI poses severe threats, including [bioterrorism](http
 
 **2. The AI Race**
 
-The [race to develop AI]((https://www.ncuscr.org/podcast/us-china-ai-race/)), fueled by the game-theoretic dynamics of competition, could result in the rushed and unsafe rollout of these technologies. This particularly concerns the use of AI in military applications, like autonomous weaponry and cyber-warfare, raising the possibility of wars conducted by automated systems. Additionally, corporations may focus on AI advancement at the expense of safety considerations, posing risks of widespread job loss and excessive reliance on AI. The article calls for the implementation of safety standards, global cooperation, and the public governance of general-purpose AI systems to counter these potential dangers.
+The [race to develop AI](https://www.ncuscr.org/podcast/us-china-ai-race/), fueled by the game-theoretic dynamics of competition, could result in the rushed and unsafe rollout of these technologies. This particularly concerns the use of AI in military applications, like autonomous weaponry and cyber-warfare, raising the possibility of wars conducted by automated systems. Additionally, corporations may focus on AI advancement at the expense of safety considerations, posing risks of widespread job loss and excessive reliance on AI. The article calls for the implementation of safety standards, global cooperation, and the public governance of general-purpose AI systems to counter these potential dangers.
 
 **3. Organizational Risks**
 Similar to historical accidents like Chernobyl and the Challenger disaster, AI development organizations face the risk of catastrophic accidents. 
