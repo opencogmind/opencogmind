@@ -109,10 +109,10 @@ const sidebars = {
     ],
   }],
   mySidebar3: [{type: 'category',
-  label: 'Book',
+  label: 'book',
   items: [
   
-    'Book/publish',
+    'book/publish',
     // Add more documentation links as needed
   ],}
   
