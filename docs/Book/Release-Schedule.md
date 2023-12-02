@@ -24,7 +24,7 @@ Stay tuned for more updates as the book progresses towards completion!
 ### About the Author
 Hello readers, my name is [Raghav Chalapathy](https://www.linkedin.com/in/raghav-chalapathy-phd-80984117/)
 A decade of research into detecting rare [events or anomalies](https://raghavchalapathy.github.io/KDD-Tutorials-2020-Deep-Robust-Anomaly-Detection/#about) sparked my curiosity in this field. This interest, combined with my experience in ensuring the safety of bridges in Australia, which earned me national recognition, and my success in a Global AI challenge where I won a [bronze medal](https://www.linkedin.com/posts/activity-6953778145170735105-joeF?utm_source=share&utm_medium=member_desktop) for accurately forecasting energy usage for a building in Malaysia, has led me to believe that it's my moral responsibility to contribute to society. I am now focused on educating the public about the critical importance of AI safety, a field that holds significant power in shaping the future of humanity.Thank you for joining me on this adventure, and I look forward to sharing my thoughts and experiences.
----
+
 
 **Stay Updated:**  
 For more information and updates about "[TEN ARGUMENTS FOR EXISTENTIAL THREAT OF AI RIGHT NOW]," keep visiting this page or follow me on [Social Media links].
