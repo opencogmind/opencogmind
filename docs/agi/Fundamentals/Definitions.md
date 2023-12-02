@@ -4,7 +4,6 @@ sidebar_position: 1
 
 # Definitions of AGI
 
-
 ![Definitions of AGI](../../../static/img/meme/AGI-BMD.png 'AGI Defined in many ways in Lierature! ')
 
 A recent paper, ["Levels of AGI: Operationalizing Progress on the Path to AGI,"](https://arxiv.org/pdf/2311.02462.pdf)  offers a fascinating exploration of this question of understanding the definition of AGI.
