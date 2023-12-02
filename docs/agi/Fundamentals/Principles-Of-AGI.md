@@ -1,8 +1,11 @@
 ---
-sidebar_position: 2
+sidebar_position: 1
 ---
 
 # AGI From First Principles 
+![Focus points for AGI](../../../static/img/meme/AGIasBlackhole.png 'AGI From First Principles')
+
+Over the years, there have been numerous attempts to pin down the essence of AGI, Artificial General Intelligence. Let's break down AGI by first principles, engineering it from the molecular level up—consider it the DNA of intelligence, complex yet elegantly simple in its ultimate design. The focal points for developing such an elegant and complex system include, but are not limited to, the following starting points:
 
 ### Focus on Capabilities, Not Processes: 
 >*AGI should be judged by what it can do, not how it does it. This means AGI doesn't need to think or understand like humans, nor does it need consciousness or feelings*.
