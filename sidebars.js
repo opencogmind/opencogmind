@@ -26,7 +26,7 @@ const sidebars = {
     label: 'Fundamentals',
     items: [
       'agi/Fundamentals/Definitions',
-      'agi/Fundamentals/AGI-From-First-Principles',
+      'agi/Fundamentals/Principles-Of-AGI',
       'agi/Fundamentals/Levels-Of-AGI',
       'agi/Fundamentals/Evaluating-AGI',
       'agi/Fundamentals/Risk-Assessment',
