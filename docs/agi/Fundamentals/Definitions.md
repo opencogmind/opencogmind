@@ -4,8 +4,8 @@ sidebar_position: 1
 
 # Definitions of AGI
 
-![Definitions of AGI](../../../static/img/meme/AGI-BMD.png 'AGI Defined in many ways in Lierature! ')
-
+![Definitions of AGI](../../../static/img/meme/AGI-BMD_cropped.png 'AGI Defined in many ways in Lierature! ')
+<div align="justify">
 A recent paper, ["Levels of AGI: Operationalizing Progress on the Path to AGI,"](https://arxiv.org/pdf/2311.02462.pdf)  offers a fascinating exploration of this question of understanding the definition of AGI.
 
 ### The Complexity of Defining AGI
@@ -41,5 +41,5 @@ This concept, proposed by Mustafa Suleyman and Michael Bhaskar, is about AI syst
 The authors of the paper [Artificial General Intelligence is Already Here](https://www.noemamag.com/artificial-general-intelligence-is-already-here/) argue that current advanced language models (like GPT-4) are already AGI because they can discuss many topics, handle different types of inputs and outputs, work in multiple languages, and learn quickly. However, while these models are general, their performance (accuracy and reliability) needs to match their generality to truly be AGI.
 
 In summary, AGI is a complex concept with various proposed definitions and tests. The focus is on whether AI can perform a wide range of tasks, understand complex concepts, and interact effectively in the real world, but there's debate over what exactly constitutes AGI and how to measure it in later sections let us follow the approach to implement and measure the safety and performance of AGI systems.
-
+</div>
 

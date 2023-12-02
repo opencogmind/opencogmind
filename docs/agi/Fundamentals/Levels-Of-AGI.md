@@ -4,9 +4,6 @@ sidebar_position: 3
 
 # Levels of AGI
 
-
-
-
 Following the first principles levels capability levels can be identified and status can be tracked as shown in the figure below:
 
 ![Capability Levels of AGI ](../../../static/img/meme/LevelsOfAGI.png 'AGI Capability Levels ')

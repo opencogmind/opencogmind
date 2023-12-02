@@ -4,11 +4,11 @@ sidebar_position: 1
 
 With leaders of the countries citing the [influence of AI](https://www.whitehouse.gov/wp-content/uploads/2022/12/TTC-EC-CEA-AI-Report-12052022-1.pdf), now the race is off to private players with high-stakes race to develop Artificial General Intelligence (AGI), several tech giants are vying for the lead.
 
->*Russian President Vladimir Putin, "Whoever becomes the leader in [artificial intelligence] will become the ruler of the world.*
+>*Russian President Vladimir Putin, "Whoever becomes the leader in artificial intelligence will become the ruler of the world.*
 >*Chinese President Xi "Space, AI, and quantum computing and communication are China’s top technology priorities"*.
 
 
-### Artificial General Intelligence (AGI): 
+### Artificial General Intelligence (AGI) Race! 
 AGI is one of the most disputed concepts in technology. There are several definitions of AGI and more recently researchers from google deepmind have proposed a taxonomy for [AGI](https://arxiv.org/pdf/2311.02462.pdf).
 AGI may be regarded as form of AI that can understand, learn, and apply its intelligence to solve any problem, is considered the holy grail of AI research. Let's examine the key players: Google (with Gemini/Bard and DeepMind), Meta, OpenAI, Microsoft, and Amazon, and assess their progress and strategies in this ambitious endeavor.
 ![AGI Race](../../static/img/meme/agirace.png "Race to Achieve AGI")
