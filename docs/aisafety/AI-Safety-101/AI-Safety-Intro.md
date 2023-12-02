@@ -3,24 +3,35 @@ sidebar_position: 1
 ---
 
 # Why AI Safety?
-The pace of AI development is accelerating, and it's clear that AI systems will soon surpass human capabilities in many areas [1]. As we continue to push the boundaries of technology, ensuring the safety of these systems is paramount. Without the right precautions, we risk encountering significant challenges.
 
-At Apart, we're devoted to exploring and addressing the fundamental issues in [AI safety](https://en.wikipedia.org/wiki/AI_safety). We work towards analyzing the most important problems in technical AI safety while fostering a global, enthusiastic and meritocratic community around this mission.
 
-For inquiries about speaking opportunities or potential collaborations, feel free to contact us at contact@apartresearch.com.
+fundamental issue in [AI safety](https://en.wikipedia.org/wiki/AI_safety).
 
-Organizations working on AI Safety
-[Course on AI Safety](https://course.mlsafety.org/)
-[How AI can turn into Rogue AI](https://yoshuabengio.org/2023/05/22/how-rogue-ais-may-arise/)
-[AI Safety Research Organization](https://apartresearch.com/)
+
+### Organizations Working on AI Safety
+A list of organizations dedicated to ensuring the safe and ethical development of artificial intelligence, along with their focus and commitment to ensuring the safe, secure, and ethical development and use of artificial intelligence. The organizations consider on various aspects of AI Safety such as 
+-*research*, 
+-*policy-making*, 
+-*practical applications, and public engagement* to address the potential risks associated with AI technologies. The goal is to harness the benefits of AI while mitigating its risks, ensuring that AI systems are trustworthy, reliable, and beneficial to society.
+[U.S. Artificial Intelligence Safety Institute (NIST)](https://www.nist.gov/artificial-intelligence/artificial-intelligence-safety-institute)
+Hosted a workshop to engage in a conversation about AI safety, attracting a significant number of participants.NIST Seeks collaborators for a consortium to build the [foundation for trustworthy AI systems](https://www.nist.gov/news-events/news/2023/11/nist-seeks-collaborators-consortium-supporting-artificial-intelligence)
+[CAIS - Safe](https://www.safe.ai/about)
+Focuses on reducing societal-scale risks from AI through field-building and research, with teams dedicated to conceptual and empirical AI safety research. The center educates the public about AI Safety with [Course on AI Safety](https://course.mlsafety.org/)
 [Stanford Center for AI Safety](https://aisafety.stanford.edu/)
-[AI Safety Hackathons](https://alignmentjam.com/jam/multiagent)
-[Center for AI Safety](https://www.safe.ai/)
+Aims to develop rigorous techniques for building safe and trustworthy AI systems, thereby facilitating their successful adoption in society.
+[Homeland Security - Promoting AI Safety and Security](https://www.dhs.gov/ai/promoting-ai-safety-and-security)
+Plays a critical role in ensuring AI use is safe and secure nationwide, following a government-wide approach.
+
+[AI Safety Research Organization](https://apartresearch.com/) 
+Conducts research on AI Safety and policy considerations
+[Vox - AI bias and AI safety teams](https://www.vox.com/future-perfect/2022/8/10/23298108/ai-dangers-ethics-alignment-present-future-risk)
+Discusses the division between two factions working to prevent AI dangers, focusing on AI bias and safety.
+[White House Document on AI Safety](https://www.whitehouse.gov/wp-content/uploads/2023/07/Ensuring-Safe-Secure-and-Trustworthy-AI.pdf)
+Addresses trust and safety teams, advancing AI safety research, privacy, protecting children, and managing the risks of AI.
+
+#### Private corporations and the AI Safety Guidelines and considerations are listed below:
+[OpenAI](https://openai.com/blog/our-approach-to-ai-safety)
+Committed to keeping powerful AI safe and broadly beneficial, focusing on increasing productivity, enhancing creativity, and offering tailored learning experiences.
 [Antropic View on AI Safety](https://www.anthropic.com/index/core-views-on-ai-safety)
-
-Here's an interesting video:
-
-<iframe width="560" height="315" src="https://www.youtube.com/embed/VjuQ4kL4mws" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-
-Continue with the rest of your Markdown content...
-
+[80,000 Hours - Preventing an AI-related catastrophe](https://80000hours.org/problem-profiles/artificial-intelligence/)
+Focuses on AI safety as a means to affect the long-run future, acknowledging the emotional difficulty of prioritizing this over immediate global problems.

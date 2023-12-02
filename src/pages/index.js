@@ -27,7 +27,7 @@ function HomepageHeader() {
         <div className={styles.buttons}>
           <Link
             className=" button button--secondary button--lg"
-            to="/agi/intro" style={{color: 'black', border: '2px solid purple' }}>
+            to="/agi/State-Of-The-Art" style={{color: 'black', border: '2px solid purple' }}>
             Explore
           </Link>
         </div>

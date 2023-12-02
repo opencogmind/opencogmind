@@ -125,7 +125,7 @@ tagline: 'Build Safe thinking machines...',
         items: [
         {
         label: 'AGI',
-        to: '/agi/intro',
+        to: '/agi/State-Of-The-Art',
         },
         
         {
