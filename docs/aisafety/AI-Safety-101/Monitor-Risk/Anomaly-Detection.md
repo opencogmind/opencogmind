@@ -3,7 +3,7 @@ sidebar_position: 1
 ---
 
 
-# [Title of Your Featured Video]
+# Anomaly-Detection
 https://arize.com/blog-course/explainability-techniques-shap/
 https://arize.com/blog/understanding-bias-in-ml-models/
 

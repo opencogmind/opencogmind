@@ -2,7 +2,7 @@
 sidebar_position: 1
 ---
 
-# [Title of Your Featured Video]
+# DetermineAttackResistance
 
 Material for defining the observability can be picked from here
 https://arize.com/wp-content/uploads/2021/11/Machine-Learning-Observability-101-_-Arize-AI.pdf

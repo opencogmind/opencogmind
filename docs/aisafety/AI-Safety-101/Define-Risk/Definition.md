@@ -2,10 +2,7 @@
 sidebar_position: 1
 ---
 
-# [Title of Your Featured Video]
-
-https://yoshuabengio.org/2023/05/22/how-rogue-ais-may-arise/
-
+# Definition
 
 Welcome to [Your Blog Name]! I'm [Your Name], and today I want to share something special with you.
 In today's post, we'll explore [Topic] which has been a hot topic lately. I've put together some insightful information and exciting videos that I'm sure you'll love!

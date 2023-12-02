@@ -9,7 +9,8 @@ Artificial Intelligence (AI) has evolved rapidly, raising significant concerns a
 The intentional misuse of AI poses severe threats, including [bioterrorism](https://www.rand.org/pubs/research_reports/RRA2977-1.html), the spread of uncontrolled AI agents, and AI-driven propaganda, censorship, and surveillance. To counter these risks, the paper suggests enhancing biosecurity, restricting access to dangerous AI models, and imposing legal liabilities on AI developers for damages caused by their systems.
 
 **2. The AI Race**
-The [competitive drive](https://www.ncuscr.org/podcast/us-china-ai-race/) involving the game theoretical aspect at play to develop AI can lead to hasty and unsafe deployment. This includes the military use of AI in autonomous weapons and cyber-warfare, potentially leading to automated wars. Corporations might also prioritize AI development over safety, risking mass unemployment and over-dependence on AI. The paper advocates for safety regulations, international coordination, and public control of general-purpose AIs to mitigate these risks.
+
+The [race to develop AI]((https://www.ncuscr.org/podcast/us-china-ai-race/)), fueled by the game-theoretic dynamics of competition, could result in the rushed and unsafe rollout of these technologies. This particularly concerns the use of AI in military applications, like autonomous weaponry and cyber-warfare, raising the possibility of wars conducted by automated systems. Additionally, corporations may focus on AI advancement at the expense of safety considerations, posing risks of widespread job loss and excessive reliance on AI. The article calls for the implementation of safety standards, global cooperation, and the public governance of general-purpose AI systems to counter these potential dangers.
 
 **3. Organizational Risks**
 Similar to historical accidents like Chernobyl and the Challenger disaster, AI development organizations face the risk of catastrophic accidents. 
