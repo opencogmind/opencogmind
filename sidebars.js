@@ -53,13 +53,18 @@ const sidebars = {
     label: 'AI-Safety-101',
     items: [
       'aisafety/AI-Safety-101/AI-Safety-Intro',
-      'aisafety/AI-Safety-101/Define-Risk/RiskDefinition',
+      'aisafety/AI-Safety-101/Define-Risk/Definition',
+      'aisafety/AI-Safety-101/Define-Risk/Rogue-AI',
+
+      'aisafety/AI-Safety-101/Monitor-Risk/Anomaly-Detection',
       'aisafety/AI-Safety-101/Monitor-Risk/Determining-Emergent-Behaviour',
-      'aisafety/AI-Safety-101/Monitor-Risk/AnomalyDetection',
+  
       'aisafety/AI-Safety-101/Observability-Of-Risk/DetermineAttackResistance',   
-      'aisafety/AI-Safety-101/Operations-Control-Risk/IncorporatingHonesty',
+
+
+      'aisafety/AI-Safety-101/Operations-Control-Risk/Incorporating-Honesty',
       'aisafety/AI-Safety-101/System-Level-AI-Safety/Systemic-AISafety',
-      'aisafety/AI-Safety-101/X-Risks/ArgumentsForX-Risks'
+      'aisafety/AI-Safety-101/X-Risks/X-Risks'
     ],
   },
   {
