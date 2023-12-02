@@ -130,7 +130,7 @@ tagline: 'Build Safe thinking machines...',
         
         {
         label: 'AI Safety',
-        to: '/aisafety/welcome',
+        to: '/aisafety/Why-Need-AI-Safety',
         },
         
         ],
