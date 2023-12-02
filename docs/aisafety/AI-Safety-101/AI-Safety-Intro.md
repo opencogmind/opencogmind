@@ -12,7 +12,6 @@ For inquiries about speaking opportunities or potential collaborations, feel fre
 Organizations working on AI Safety
 [Course on AI Safety](https://course.mlsafety.org/)
 [How AI can turn into Rogue AI](https://yoshuabengio.org/2023/05/22/how-rogue-ais-may-arise/)
-
 [AI Safety Research Organization](https://apartresearch.com/)
 [Stanford Center for AI Safety](https://aisafety.stanford.edu/)
 [AI Safety Hackathons](https://alignmentjam.com/jam/multiagent)
