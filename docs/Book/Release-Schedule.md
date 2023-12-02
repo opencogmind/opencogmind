@@ -5,10 +5,6 @@
 **Title:** *TEN ARGUMENTS FOR EXISTENTIAL THREAT OF AI RIGHT NOW*  
 **Expected Release Date:** 02, 2024
 
-## About the Book
-TEN ARGUMENTS FOR EXISTENTIAL THREAT OF AI RIGHT NOW is currently a work in progress. This book delves into crisis at Our Doorstep and presents 10 arguments for why there is EXISTENTIAL THREAT OF AI
-RIGHT NOW to humanity and one need not have to wait for AI to graduate to AGI. 
-
 ### Synopsis
 TEN ARGUMENTS FOR EXISTENTIAL THREAT OF AI RIGHT NOW is currently a work in progress. This book explores the challenges and potential risks posed by advanced artificial intelligence, and how humanity can prepare and respond to these emerging concerns.
 
