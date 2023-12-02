@@ -45,7 +45,7 @@ const sidebars = {
   mySidebar: [{type: 'category',
   label: 'AI Safety',
   items: [
-    'aisafety/welcome',
+    'aisafety/Why-Need-AI-Safety',
     // Add more documentation links as needed
   ],},
   {
