@@ -4,8 +4,8 @@ import styles from './styles.module.css';
 
 const FeatureList = [
   {
-    title: 'Events',
-    link: '/events/welcome',
+    title: 'AI Safety',
+    link: '/aisafety/Why-Need-AI-Safety',
     Svg: require('@site/static/img/1.svg').default,
     description: (
       <>
@@ -14,20 +14,6 @@ const FeatureList = [
     ),
   },
   {
-    title: 'Podcasts',
-    link: '/Podcasts/welcome',
-    Svg: require('@site/static/img/3.svg').default,
-    description: (
-      <>
-        Learn to Build & Evaluate Safe AI apps.
-      </>
-    ),
-  },
-  {
-
-    title: 'MoonBase',
-    link: '/moonbase/intro',
-
     title: 'AI -) AGI',
     link: '/agi/State-Of-The-Art',
     Svg: require('@site/static/img/2.svg').default,
@@ -37,7 +23,16 @@ const FeatureList = [
       </>
     ),
   },
-  
+  {
+    title: 'Apps',
+    link: '/blog',
+    Svg: require('@site/static/img/3.svg').default,
+    description: (
+      <>
+        Learn to Build & Evaluate Safe AI apps.
+      </>
+    ),
+  },
 ];
 
 function Feature({ link, Svg, title, description}) {

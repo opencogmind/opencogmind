@@ -6,8 +6,8 @@ const darkCodeTheme = require('prism-react-renderer/themes/dracula');
 
 /** @type {import('@docusaurus/types').Config} */
 const config = {
-title: 'MoonBase',
-tagline: "How to find out your child's interest?",
+title: 'Follow the path to Safe AGI',
+tagline: "Build Safe thinking machines...",
   favicon: 'img/favicon.ico',
 
   // Set the production url of your site here
