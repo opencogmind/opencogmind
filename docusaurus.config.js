@@ -101,14 +101,14 @@ tagline: "How to find out your child's interest?",
             position: 'left',
             label: 'Apps',
           },
-          {
-            type: 'docSidebar',
-            routeBasePath:'/',
+          // {
+          //   type: 'docSidebar',
+          //   routeBasePath:'/',
 
-            sidebarId: 'demo',
-            position: 'left',
-            label: 'New Demo',
-          },
+          //   sidebarId: 'demo',
+          //   position: 'left',
+          //   label: 'New Demo',
+          // },
             {
               type: 'docSidebar',
               routeBasePath:'/',
