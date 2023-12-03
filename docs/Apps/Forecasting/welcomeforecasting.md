@@ -2,7 +2,7 @@
 sidebar_position: 1
 ---
 
-# Anomaly Detection & Forecasting for AI Safety!
+# welcome To Forecasting
 
 "Hello and welcome to [OpenCogmind](https://opencogmind.com/), the place where we dive deep into the fascinating world of Artificial Intelligence and its impact on our lives. I'm [Raghav Chalapathy](https://www.linkedin.com/in/raghav-chalapathy-phd-80984117/), and today, we're going to explore a crucial aspect of AI that ensures it remains a force for good: AI Safety, particularly focusing on Anomaly Detection and Forecasting.
 

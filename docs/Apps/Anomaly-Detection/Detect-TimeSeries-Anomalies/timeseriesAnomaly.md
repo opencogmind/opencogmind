@@ -3,7 +3,7 @@ sidebar_position: 1
 ---
 
 
-# Anomalies within Time Series
+# Time Series Anomaly
 
 https://www.youtube.com/watch?v=ot3fuoika3I&t=836s
 

@@ -58,34 +58,87 @@ const sidebars = {
   items: [
     'aisafety/Why-Need-AI-Safety',
     // Add more documentation links as needed
+    {
+      type: 'category',
+      label: 'AI-Safety-101',
+      items: [
+        'aisafety/AI-Safety-101/AI-Safety-Intro',
+        
+        {
+          type: 'category',
+          label: 'Define-Risk',
+          items: [
+            'aisafety/AI-Safety-101/Define-Risk/Definition',
+            'aisafety/AI-Safety-101/Define-Risk/Rogue-AI'
+            
+          ],
+          
+        },
+        {
+          type: 'category',
+          label: 'Monitor-Risk',
+          items: [
+            'aisafety/AI-Safety-101/Monitor-Risk/Anomaly-Detection',
+        'aisafety/AI-Safety-101/Monitor-Risk/Determining-Emergent-Behaviour',
+            
+          ],
+          
+        },
+        {
+          type: 'category',
+          label: 'Observability-Of-Risk',
+          items: [
+            'aisafety/AI-Safety-101/Observability-Of-Risk/DetermineAttackResistance',
+        
+            
+          ],
+          
+        },
+        {
+          type: 'category',
+          label: 'Operations-Control-Risk',
+          items: [
+            'aisafety/AI-Safety-101/Operations-Control-Risk/Incorporating-Honesty',
+            
+          ],
+          
+        },
+        {
+          type: 'category',
+          label: 'System-Level-AI-Safety',
+          items: [
+            'aisafety/AI-Safety-101/System-Level-AI-Safety/Systemic-AISafety',
+        
+            
+          ],
+          
+        },
+        {
+          type: 'category',
+          label: 'X-Risks',
+          items: [
+            'aisafety/AI-Safety-101/X-Risks/X-Risks',
+        
+            
+          ],
+          
+        },
+        
+      ],
+      
+    },
+    {
+      type: 'category',
+      label: 'Research',
+      items: [
+        'aisafety/Research/Research1'
+    
+      ],
+    },
   ],},
-  {
-    type: 'category',
-    label: 'AI-Safety-101',
-    items: [
-      'aisafety/AI-Safety-101/AI-Safety-Intro',
-      'aisafety/AI-Safety-101/Define-Risk/Definition',
-      'aisafety/AI-Safety-101/Define-Risk/Rogue-AI',
-
-      'aisafety/AI-Safety-101/Monitor-Risk/Anomaly-Detection',
-      'aisafety/AI-Safety-101/Monitor-Risk/Determining-Emergent-Behaviour',
   
-      'aisafety/AI-Safety-101/Observability-Of-Risk/DetermineAttackResistance',   
-
-
-      'aisafety/AI-Safety-101/Operations-Control-Risk/Incorporating-Honesty',
-      'aisafety/AI-Safety-101/System-Level-AI-Safety/Systemic-AISafety',
-      'aisafety/AI-Safety-101/X-Risks/X-Risks'
-    ],
-  },
-  {
-    type: 'category',
-    label: 'Research',
-    items: [
-      'aisafety/Research/Research1'
   
-    ],
-  },],
+ ],
 
   mySidebar2: [{type: 'category',
   label: 'Apps',
@@ -93,41 +146,95 @@ const sidebars = {
   
     'Apps/welcomeapps',
     // Add more documentation links as needed
+    {
+      type: 'category',
+      label: 'Anomaly-Detection',
+      items: [
+        'Apps/Anomaly-Detection/welcomead',
+        {
+          type: 'category',
+          label: 'Detect-FakeNews',
+          items: [
+            'Apps/Anomaly-Detection/Detect-FakeNews/detectFakeNews'
+        
+          ],
+        },
+        {
+          type: 'category',
+          label: 'Detect-TimeSeries-Anomalies',
+          items: [
+            'Apps/Anomaly-Detection/Detect-TimeSeries-Anomalies/timeseriesAnomaly'
+        
+          ],
+        },
+        {
+          type: 'category',
+          label: 'Detect-CounterFiets',
+          items: [
+            'Apps/Anomaly-Detection/Detect-CounterFiets/DetectingCouterfiets'
+        
+          ],
+        },
+        {
+          type: 'category',
+          label: 'Find-God-Particle',
+          items: [
+            'Apps/Anomaly-Detection/Find-God-Particle/SearchForGodParticle'
+        
+          ],
+        },
+         
+      ],
+    },
+    {
+      type: 'category',
+      label: 'Forecasting',
+      items: [
+        
+        'Apps/Forecasting/welcomeforecasting',
+        {
+          type: 'category',
+          label: 'Demand-Forecasting',
+          items: [
+            'Apps/Forecasting/Demand-Forecasting/DF_App1'
+        
+          ],
+        },
+         
+        {
+          type: 'category',
+          label: 'Stock-Price-Prediction',
+          items: [
+            'Apps/Forecasting/Finance-Time-Series/Stock-Price-Prediction/StockForecastingApp01',
+            'Apps/Forecasting/Finance-Time-Series/Stock-Price-Prediction/StockForecastingApp02'
+          ],
+        },
+        
+        
+      ],
+  
+    },
+    {
+      type: 'category',
+      label: 'Reinforcement-Learning',
+      items: [
+  
+        
+        'Apps/Reinforcement-Learning/welcomeRHLF',
+        {
+          type: 'category',
+          label: 'RLHF',
+          items: [
+            'Apps/Reinforcement-Learning/RLHF/RLHFIntro'
+        
+          ],
+        },
+         
+  
+      ],
+    },
   ],},
-  {
-    type: 'category',
-    label: 'Anomaly-Detection',
-    items: [
-      'Apps/Anomaly-Detection/welcomead',
-      'Apps/Anomaly-Detection/Detect-FakeNews/detectFakeNews',
-      'Apps/Anomaly-Detection/Detect-TimeSeries-Anomalies/timeseriesAnomaly',
-      'Apps/Anomaly-Detection/Detect-CounterFiets/DetectingCouterfiets',
-      'Apps/Anomaly-Detection/Find-God-Particle/SearchForGodParticle',
-    ],
-  },
-  {
-    type: 'category',
-    label: 'Forecasting',
-    items: [
-      
-      'Apps/Forecasting/welcomeforecasting',
-      'Apps/Forecasting/Demand-Forecasting/DF_App1',
-      'Apps/Forecasting/Finance-Time-Series/Stock-Price-Prediction/StockForecastingApp01',
-      'Apps/Forecasting/Finance-Time-Series/Stock-Price-Prediction/StockForecastingApp02'
-    ],
-
-  },
-  {
-    type: 'category',
-    label: 'Reinforcement-Learning',
-    items: [
-
-      'Apps/Reinforcement Learning/RLHF/manage-docs-versions',
-      'Apps/Reinforcement-Learning/welcomeRHLF',
-      'Apps/Reinforcement-Learning/RLHF/RLHFIntro'
-
-    ],
-  },],
+  ],
   
   demo: [{ type:'category', label:'demo',
           items:[
