@@ -23,13 +23,13 @@ const sidebars = {
   },
   {
     type: 'category',
-    label: 'tutorial-basics',
+    label: 'History',
     items: [
-      'agi/tutorial-basics/congratulations',
-      'agi/tutorial-basics/create-a-blog-post',
-      'agi/tutorial-basics/create-a-document',
-      'agi/tutorial-basics/create-a-page',
-      'agi/tutorial-basics/deploy-your-site',
+      'agi/History/congratulations',
+      'agi/History/create-a-blog-post',
+      'agi/History/create-a-document',
+      'agi/History/create-a-page',
+      'agi/History/deploy-your-site',
     ],
   },
   {
@@ -43,9 +43,12 @@ const sidebars = {
   {
     type: 'category',
     label: 'tutorial-extras',
+
+    label: 'Research',
+
     items: [
-      'agi/tutorial-extras/manage-docs-versions',
-      'agi/tutorial-extras/translate-your-site',
+      'agi/Research/manage-docs-versions',
+      'agi/Research/translate-your-site',
   
     ],
   },],
@@ -58,21 +61,21 @@ const sidebars = {
   ],},
   {
     type: 'category',
-    label: 'tutorial-basics',
+    label: 'AI-Safety-101',
     items: [
-      'aisafety/tutorial-basics/congratulations',
-      'aisafety/tutorial-basics/create-a-blog-post',
-      'aisafety/tutorial-basics/create-a-document',
-      'aisafety/tutorial-basics/create-a-page',
-      'aisafety/tutorial-basics/deploy-your-site',
+      'aisafety/AI-Safety-101/congratulations',
+      'aisafety/AI-Safety-101/create-a-blog-post',
+      'aisafety/AI-Safety-101/create-a-document',
+      'aisafety/AI-Safety-101/create-a-page',
+      'aisafety/AI-Safety-101/deploy-your-site',
     ],
   },
   {
     type: 'category',
-    label: 'tutorial-extras',
+    label: 'Research',
     items: [
-      'aisafety/tutorial-extras/manage-docs-versions',
-      'aisafety/tutorial-extras/translate-your-site',
+      'aisafety/Research/manage-docs-versions',
+      'aisafety/Research/translate-your-site',
   
     ],
   },],
@@ -86,22 +89,29 @@ const sidebars = {
   ],},
   {
     type: 'category',
-    label: 'tutorial-basics',
+    label: 'Anomaly-Detection',
     items: [
-      'Apps/tutorial-basics/congratulations',
-      'Apps/tutorial-basics/create-a-blog-post',
-      'Apps/tutorial-basics/create-a-document',
-      'Apps/tutorial-basics/create-a-page',
-      'Apps/tutorial-basics/deploy-your-site',
+      'Apps/Anomaly-Detection/congratulations',
+      'Apps/Anomaly-Detection/create-a-blog-post',
+      'Apps/Anomaly-Detection/create-a-document',
+      'Apps/Anomaly-Detection/create-a-page',
+      'Apps/Anomaly-Detection/deploy-your-site',
     ],
   },
   {
     type: 'category',
-    label: 'tutorial-extras',
+    label: 'Forecasting',
     items: [
-      'Apps/tutorial-extras/manage-docs-versions',
-      'Apps/tutorial-extras/translate-your-site',
-  
+      'Apps/Forecasting/manage-docs-versions',
+      'Apps/Forecasting/translate-your-site',
+    ],
+
+  },
+  {
+    type: 'category',
+    label: 'Reinforcement Learning',
+    items: [
+      'Apps/Reinforcement Learning/RLHF/manage-docs-versions',
     ],
   },],
   
@@ -110,6 +120,20 @@ const sidebars = {
             'demo/intro',
           ],},],
   
+
+ 
+ 
+
+  mySidebar3: [{type: 'category',
+  label: 'Book',
+  items: [
+  
+    'Book/publish',
+    // Add more documentation links as needed
+  ],},
+  
+  ],
+
 };
  
 module.exports = sidebars;

@@ -104,9 +104,18 @@ tagline: "How to find out your child's interest?",
           {
             type: 'docSidebar',
             routeBasePath:'/',
+
             sidebarId: 'demo',
             position: 'left',
             label: 'New Demo',
+          },
+            {
+              type: 'docSidebar',
+              routeBasePath:'/',
+            sidebarId: 'mySidebar3',
+            position: 'left',
+            label: 'Book',
+
           },
           {to: '/blog', label: 'Blogs', position: 'left'},
           // {to: '/about', label: 'About', position: 'left'},
@@ -140,11 +149,11 @@ tagline: "How to find out your child's interest?",
         items: [
         {
         label: 'GitHub',
-        href: 'https://github.com/facebook/docusaurus',
+        href: 'https://github.com/opencogmind?tab=repositories',
         },
         {
         label: 'Youtube',
-        href: 'https://stackoverflow.com/questions/tagged/docusaurus',
+        href: 'https://www.youtube.com/channel/UCk9_mH7ozrdHz2ve4_I-avg',
         }
         ],
         },
