@@ -12,7 +12,7 @@ function HomepageHeader() {
 
   const heroStyle = {
     backgroundImage: 'url("/img/homepage.jpg")', // Replace with the path to your image
-    padding: '15.8rem 2rem ' ,
+    padding: '18rem 2rem ' ,
     backgroundSize: 'cover',
     backgroundRepeat: 'no-repeat',
   
@@ -27,7 +27,7 @@ function HomepageHeader() {
         <div className={styles.buttons}>
           <Link
             className=" button button--secondary button--lg"
-            to="/agi/demos/intro" style={{color: 'black', border: '2px solid purple' }}>
+            to="/agi/State-Of-The-Art" style={{color: 'black', border: '2px solid purple' }}>
             Explore
           </Link>
         </div>
