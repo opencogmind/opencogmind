@@ -134,12 +134,12 @@ tagline: "How to find out your child's interest?",
         items: [
         {
         label: 'AGI',
-        to: '/agi/intro',
+        to: '/agi/State-Of-The-Art',
         },
         
         {
         label: 'AI Safety',
-        to: '/aisafety/welcome',
+        to: '/aisafety/Why-Need-AI-Safety',
         },
         
         ],

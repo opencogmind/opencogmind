@@ -18,18 +18,19 @@ const sidebars = {
     type: 'category',
     label: 'AGI',
     items: [
-      'agi/intro',
+      'agi/State-Of-The-Art',
     ],
   },
   {
     type: 'category',
-    label: 'History',
+    label: 'Fundamentals',
     items: [
-      'agi/History/congratulations',
-      'agi/History/create-a-blog-post',
-      'agi/History/create-a-document',
-      'agi/History/create-a-page',
-      'agi/History/deploy-your-site',
+      'agi/Fundamentals/Definitions',
+      'agi/Fundamentals/Principles-Of-AGI',
+      'agi/Fundamentals/Levels-Of-AGI',
+      'agi/Fundamentals/Evaluating-AGI',
+      'agi/Fundamentals/Risk-Assessment',
+      'agi/Fundamentals/AutonomyVsCapability',
     ],
   },
   {
@@ -47,8 +48,7 @@ const sidebars = {
     label: 'Research',
 
     items: [
-      'agi/Research/manage-docs-versions',
-      'agi/Research/translate-your-site',
+      'agi/Research/Sparks-Of-AGI'
   
     ],
   },],
@@ -56,26 +56,33 @@ const sidebars = {
   mySidebar: [{type: 'category',
   label: 'AI Safety',
   items: [
-    'aisafety/welcome',
+    'aisafety/Why-Need-AI-Safety',
     // Add more documentation links as needed
   ],},
   {
     type: 'category',
     label: 'AI-Safety-101',
     items: [
-      'aisafety/AI-Safety-101/congratulations',
-      'aisafety/AI-Safety-101/create-a-blog-post',
-      'aisafety/AI-Safety-101/create-a-document',
-      'aisafety/AI-Safety-101/create-a-page',
-      'aisafety/AI-Safety-101/deploy-your-site',
+      'aisafety/AI-Safety-101/AI-Safety-Intro',
+      'aisafety/AI-Safety-101/Define-Risk/Definition',
+      'aisafety/AI-Safety-101/Define-Risk/Rogue-AI',
+
+      'aisafety/AI-Safety-101/Monitor-Risk/Anomaly-Detection',
+      'aisafety/AI-Safety-101/Monitor-Risk/Determining-Emergent-Behaviour',
+  
+      'aisafety/AI-Safety-101/Observability-Of-Risk/DetermineAttackResistance',   
+
+
+      'aisafety/AI-Safety-101/Operations-Control-Risk/Incorporating-Honesty',
+      'aisafety/AI-Safety-101/System-Level-AI-Safety/Systemic-AISafety',
+      'aisafety/AI-Safety-101/X-Risks/X-Risks'
     ],
   },
   {
     type: 'category',
     label: 'Research',
     items: [
-      'aisafety/Research/manage-docs-versions',
-      'aisafety/Research/translate-your-site',
+      'aisafety/Research/Research1'
   
     ],
   },],
@@ -84,34 +91,41 @@ const sidebars = {
   label: 'Apps',
   items: [
   
-    'Apps/welcome',
+    'Apps/welcomeapps',
     // Add more documentation links as needed
   ],},
   {
     type: 'category',
     label: 'Anomaly-Detection',
     items: [
-      'Apps/Anomaly-Detection/congratulations',
-      'Apps/Anomaly-Detection/create-a-blog-post',
-      'Apps/Anomaly-Detection/create-a-document',
-      'Apps/Anomaly-Detection/create-a-page',
-      'Apps/Anomaly-Detection/deploy-your-site',
+      'Apps/Anomaly-Detection/welcomead',
+      'Apps/Anomaly-Detection/Detect-FakeNews/detectFakeNews',
+      'Apps/Anomaly-Detection/Detect-TimeSeries-Anomalies/timeseriesAnomaly',
+      'Apps/Anomaly-Detection/Detect-CounterFiets/DetectingCouterfiets',
+      'Apps/Anomaly-Detection/Find-God-Particle/SearchForGodParticle',
     ],
   },
   {
     type: 'category',
     label: 'Forecasting',
     items: [
-      'Apps/Forecasting/manage-docs-versions',
-      'Apps/Forecasting/translate-your-site',
+      
+      'Apps/Forecasting/welcomeforecasting',
+      'Apps/Forecasting/Demand-Forecasting/DF_App1',
+      'Apps/Forecasting/Finance-Time-Series/Stock-Price-Prediction/StockForecastingApp01',
+      'Apps/Forecasting/Finance-Time-Series/Stock-Price-Prediction/StockForecastingApp02'
     ],
 
   },
   {
     type: 'category',
-    label: 'Reinforcement Learning',
+    label: 'Reinforcement-Learning',
     items: [
+
       'Apps/Reinforcement Learning/RLHF/manage-docs-versions',
+      'Apps/Reinforcement-Learning/welcomeRHLF',
+      'Apps/Reinforcement-Learning/RLHF/RLHFIntro'
+
     ],
   },],
   
@@ -128,7 +142,7 @@ const sidebars = {
   label: 'Book',
   items: [
   
-    'Book/publish',
+    'Book/Release-Schedule',
     // Add more documentation links as needed
   ],},
   

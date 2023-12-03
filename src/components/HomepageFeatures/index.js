@@ -24,8 +24,12 @@ const FeatureList = [
     ),
   },
   {
+
     title: 'MoonBase',
     link: '/moonbase/intro',
+
+    title: 'AI -) AGI',
+    link: '/agi/State-Of-The-Art',
     Svg: require('@site/static/img/2.svg').default,
     description: (
       <>
