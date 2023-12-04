@@ -4,11 +4,9 @@ sidebar_position: 1
 
 
 # Determining-Emergent-Behaviour
-
+https://arize.com/blog-course/explainability-techniques-shap/
 https://arize.com/blog/data-quality-monitoring/
-
 https://arize.com/blog/solving-data-quality-with-ml-observability-and-data-operations/
-
 https://arize.com/blog-course/explainability-xai-primer/
 https://arize.com/blog/monitor-unstructured-data-with-arize/
 https://arize.com/blog-course/embeddings-meaning-examples-and-how-to-compute/

@@ -2,10 +2,10 @@
 sidebar_position: 1
 ---
 
-# DetermineAttackResistance
+# Observing-LLM-Risks
 
-https://arize.com/blog/the-chronicles-of-ai-ethics-the-man-the-machine-and-the-black-box/
-
+https://courses.arize.com/courses/llm-observability-traces-spans/lectures/49907194
+https://courses.arize.com/courses/llm-observability-traces-spans/lectures/49907196
 
 
 Welcome to [Your Blog Name]! I'm [Your Name], and today I want to share something special with you.

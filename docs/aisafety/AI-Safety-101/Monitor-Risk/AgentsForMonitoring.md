@@ -2,11 +2,13 @@
 sidebar_position: 1
 ---
 
-# DetermineAttackResistance
 
-https://arize.com/blog/the-chronicles-of-ai-ethics-the-man-the-machine-and-the-black-box/
+# Anomaly-Detection
+https://courses.arize.com/courses/agents-tools-and-chains/lectures/49618957
 
 
+Resources
+https://courses.arize.com/courses/agents-tools-and-chains/lectures/49597148
 
 Welcome to [Your Blog Name]! I'm [Your Name], and today I want to share something special with you.
 In today's post, we'll explore [Topic] which has been a hot topic lately. I've put together some insightful information and exciting videos that I'm sure you'll love!

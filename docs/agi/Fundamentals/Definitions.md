@@ -6,19 +6,19 @@ sidebar_position: 2
 
 ![Definitions of AGI](../../../static/img/meme/AGI-BMD_cropped.png 'AGI Defined in many ways in Lierature! ')
 
-AGIasBlackhole
+AGI defined in several ways
 A recent paper, ["Levels of AGI: Operationalizing Progress on the Path to AGI,"](https://arxiv.org/pdf/2311.02462.pdf)  offers a fascinating exploration of this question of understanding the definition of AGI.
 
 ### The Complexity of Defining AGI
 Previous approaches to define AGI can be well understood by studying the examples or case studies, scientist proposed as a challenge for the computer systems to be generally intelligent. Several attempts were made to define AGI a few notable ones are listed below:
 
-#### A system which passes is an AGI:
+#### A system which passes Turing test is an AGI:
 Developed by Alan Turing in 1950, this test involves a human trying to tell if they are interacting with a machine or another human based on text responses. The test has faced criticism and is seen as insufficient for defining or measuring AGI. Modern language models (LLMs) can sometimes pass the Turing Test, but this doesn't necessarily reflect their "intelligence." The authors suggest focusing on what a machine can do rather than if it can think.
 
-#### Strong AI is first stepping stone to AGI:
+#### A system which has Strong AI is first stepping stone to AGI:
 Strong AI as proposed by philosopher John Searle in 1980. According to Searle, a computer with the right programming can be considered to have understanding and other cognitive states, implying that it possesses consciousness. This idea suggests that Strong AI could be a path to achieving AGI (Artificial General Intelligence). However, there is no scientific consensus on how to determine if machines actually have Strong AI characteristics like consciousness. Due to this lack of agreement on methods to measure these attributes, focusing on process-oriented aspects, like consciousness in machines, is considered impractical for defining or achieving AGI.
 
-#### A capability of system comparable to Human Brain is AGI: 
+#### A system capability comparable to Human Brain is AGI: 
 AGI was first mentioned in 1997, described as AI systems that could match or exceed the human brain in complexity and speed, and be used in many different areas. However, modern AI, like transformer-based architectures, shows that AGI doesn't necessarily need to mimic the human brain.
 
 #### A system achieving Human-Level Performance on Cognitive Tasks is AGI: 

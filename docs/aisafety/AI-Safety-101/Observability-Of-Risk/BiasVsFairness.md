@@ -2,9 +2,16 @@
 sidebar_position: 1
 ---
 
-# DetermineAttackResistance
+# Performance Metrics
 
-https://arize.com/blog/the-chronicles-of-ai-ethics-the-man-the-machine-and-the-black-box/
+https://courses.arize.com/courses/ml-observability-advanced-metrics-course/lectures/45694718
+https://arize.com/blog/understanding-bias-in-ml-models/
+https://arize.com/blog/machine-learning-bias-tracing/
+https://arize.com/blog-course/algorithmic-bias-examples-tools/
+
+https://courses.arize.com/courses/ml-observability-advanced-metrics-course/lectures/45694718
+
+
 
 
 

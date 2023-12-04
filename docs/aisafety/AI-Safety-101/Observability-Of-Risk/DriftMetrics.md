@@ -2,8 +2,22 @@
 sidebar_position: 1
 ---
 
-# DetermineAttackResistance
+# Performance Metrics
+The drift metrics slides can be found here 
 
+https://courses.arize.com/courses/ml-observability-advanced-metrics-course/lectures/45694701
+https://arize.com/blog/take-my-drift-away/
+https://arize.com/blog/model-concept-data-drift/
+
+
+Material for defining the observability can be picked from here
+
+https://arize.com/blog/take-my-drift-away/
+https://arize.com/blog/model-concept-data-drift/
+
+https://arize.com/blog-course/explainability-techniques-shap/
+https://arize.com/blog/understanding-bias-in-ml-models/
+https://arize.com/blog/machine-learning-bias-tracing/
 https://arize.com/blog/the-chronicles-of-ai-ethics-the-man-the-machine-and-the-black-box/
 
 
