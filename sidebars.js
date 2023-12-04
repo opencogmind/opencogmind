@@ -159,6 +159,16 @@ const sidebars = {
         
           ],
         },
+
+        {
+          type: 'category',
+          label: 'Detect-CounterFiets',
+          items: [
+            'Apps/Anomaly-Detection/Detect-CounterFiets/DetectingCouterfiets'
+        
+          ],
+        },
+
         {
           type: 'category',
           label: 'Detect-TimeSeries-Anomalies',
@@ -169,18 +179,9 @@ const sidebars = {
         },
         {
           type: 'category',
-          label: 'Detect-CounterFiets',
-          items: [
-            'Apps/Anomaly-Detection/Detect-CounterFiets/DetectingCouterfiets'
-        
-          ],
-        },
-        {
-          type: 'category',
           label: 'Find-God-Particle',
           items: [
-            'Apps/Anomaly-Detection/Find-God-Particle/SearchForGodParticle'
-        
+            'Apps/Anomaly-Detection/Find-God-Particle/SearchForGodParticle'       
           ],
         },
          

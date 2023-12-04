@@ -2,7 +2,7 @@
 sidebar_position: 1
 ---
 
-# Anomaly for AI Safety Monitoring 
+# Anomaly Detection & AI Safety
 "Hello everyone, welcome back to [OpenCogmind](https://opencogmind.com/)! I'm [Raghav Chalapathy](https://www.linkedin.com/in/raghav-chalapathy-phd-80984117/), and today we're going to delve into a crucial aspect of AI technology that's vital for ensuring its safe application: Anomaly Detection for AI Safety.
 
 ### Context!

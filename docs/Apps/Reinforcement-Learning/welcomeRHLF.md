@@ -2,10 +2,9 @@
 sidebar_position: 1
 ---
 
-# Welcome To RLHF
+# RLHF & AI Safety
 
-
-Reinforcement Learning from Human Feedback (RLHF) and anomaly detection, while distinct concepts in the field of artificial intelligence, can be interconnected in certain contexts. Here's an overview of how they relate:
+Reinforcement Learning from Human Feedback (RLHF) and [anomaly detection](../Anomaly-Detection%20/welcomead.md), while distinct concepts in the field of artificial intelligence, can be interconnected in certain contexts. Here's an overview of how they relate:
 
 ### Reinforcement Learning from Human Feedback (RLHF):
 -*Concept:* RLHF involves training a reinforcement learning model using feedback from humans. This can include direct rewards or punishments, demonstrations of the desired behavior, or corrections and guidance.
