@@ -144,7 +144,7 @@ const sidebars = {
   label: 'Apps',
   items: [
   
-    'Apps/welcomeapps',
+    'Apps/Apps-for-AI-Safety',
     // Add more documentation links as needed
     {
       type: 'category',
@@ -237,10 +237,6 @@ const sidebars = {
   ],},
   ],
   
-  demo: [{ type:'category', label:'demo',
-          items:[
-            'demo/intro',
-          ],},],
   
 
  
