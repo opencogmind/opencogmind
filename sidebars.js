@@ -226,6 +226,26 @@ const sidebars = {
   
       ],
     },
+
+    {
+      type: 'category',
+      label: 'Framework',
+      items: [
+  
+        
+        'Apps/Framework/Framework-for-Apps',
+        {
+          type: 'category',
+          label: 'Features',
+          items: [
+            'Apps/Framework/Features/Features-Intro'
+        
+          ],
+        },
+         
+  
+      ],
+    },
   ],},
   ],
   
