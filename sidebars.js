@@ -35,14 +35,6 @@ const sidebars = {
   },
   {
     type: 'category',
-    label: 'demos',
-    items: [
-      'agi/demos/intro',
-      
-    ],
-  },
-  {
-    type: 'category',
     label: 'tutorial-extras',
 
     label: 'Research',

@@ -78,7 +78,7 @@ tagline: "Build Safe thinking machines...",
         title: 'OpenCogMind',
         logo: {
           alt: '',
-          src: 'img/logo.png',
+          src: 'img/logo.svg',
         },
         items: [
           {
