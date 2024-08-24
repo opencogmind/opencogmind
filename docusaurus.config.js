@@ -6,7 +6,7 @@ const darkCodeTheme = require('prism-react-renderer/themes/dracula');
 
 /** @type {import('@docusaurus/types').Config} */
 const config = {
-title: 'Causal AI ensures safe path to AGI',
+title: 'Follow Causal AI journey to Safe AGI',
 tagline: "Build Causal Safe thinking machines...",
   favicon: 'img/favicon.ico',
 
@@ -92,14 +92,14 @@ tagline: "Build Causal Safe thinking machines...",
             routeBasePath:'/',
             sidebarId: 'mySidebar',
             position: 'left',
-            label: 'AI Safety',
+            label: 'Causal AI',
           },
           {
             type: 'docSidebar',
             routeBasePath:'/',
             sidebarId: 'mySidebar2',
             position: 'left',
-            label: 'Apps',
+            label: 'AI Safety',
           },
           // {
           //   type: 'docSidebar',
