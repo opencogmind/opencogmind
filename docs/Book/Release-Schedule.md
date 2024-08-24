@@ -25,7 +25,7 @@ A decade of research into detecting rare [events or anomalies](https://raghavcha
 **Stay Updated:**  
 For more information and updates about "[TEN ARGUMENTS FOR EXISTENTIAL THREAT OF AI RIGHT NOW]," keep visiting this page or follow me on [Twitter/X](https://twitter.com/OpencogMind).
 
-*TEN ARGUMENTS FOR EXISTENTIAL THREAT OF AI RIGHT NOW* will be available for purchase on Amazon. Don't miss out on this insightful exploration into AI and its impact on our future.
-[Pre-order your copy here!](https://www.amazon.com/your-book-link)
+*TEN ARGUMENTS FOR EXISTENTIAL THREAT OF AI RIGHT NOW* will be available as a series of [medium posts]() which will be further compiled as a physical book. Don't miss out on this insightful exploration into AI and its impact on our future.
+[Get your copy here!](https://www.amazon.com/your-book-link)
 
 *Note: The content and release date are subject to change as the book is still under development.*

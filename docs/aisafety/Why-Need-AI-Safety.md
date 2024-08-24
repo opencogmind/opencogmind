@@ -45,6 +45,10 @@ Discusses the division between two factions working to prevent AI dangers, focus
 [White House Document on AI Safety](https://www.whitehouse.gov/wp-content/uploads/2023/07/Ensuring-Safe-Secure-and-Trustworthy-AI.pdf)
 Addresses trust and safety teams, advancing AI safety research, privacy, protecting children, and managing the risks of AI.
 
+### AI Safety Communities
+A big community of people interested in AI alignment, with channels ranging from general topics to specific fields to local [groups](https://coda.io/@alignmentdev/alignmentecosystemdevelopment)
+
+
 ### Private corporations and the AI Safety Guidelines and considerations are listed below:
 [OpenAI](https://openai.com/blog/our-approach-to-ai-safety)
 Committed to keeping powerful AI safe and broadly beneficial, focusing on increasing productivity, enhancing creativity, and offering tailored learning experiences.
