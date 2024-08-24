@@ -50,7 +50,7 @@ const sidebars = {
     label: 'Causal AI',
     items: [
     
-      'Apps/Apps-for-AI-Safety',
+      'CausalAI/Apps-for-AI-Safety',
       // Add more documentation links as needed
       {
         type: 'category',
@@ -61,7 +61,7 @@ const sidebars = {
             type: 'category',
             label: 'Detect-FakeNews',
             items: [
-              'Apps/Anomaly-Detection/Detect-FakeNews/detectFakeNews'
+              'CausalAI/Anomaly-Detection/Detect-FakeNews/detectFakeNews'
           
             ],
           },
@@ -70,7 +70,7 @@ const sidebars = {
             type: 'category',
             label: 'Detect-CounterFiets',
             items: [
-              'Apps/Anomaly-Detection/Detect-CounterFiets/DetectingCouterfiets'
+              'CausalAI/Anomaly-Detection/Detect-CounterFiets/DetectingCouterfiets'
           
             ],
           },
@@ -79,7 +79,7 @@ const sidebars = {
             type: 'category',
             label: 'Detect-TimeSeries-Anomalies',
             items: [
-              'Apps/Anomaly-Detection/Detect-TimeSeries-Anomalies/timeseriesAnomaly'
+              'CausalAI/Anomaly-Detection/Detect-TimeSeries-Anomalies/timeseriesAnomaly'
           
             ],
           },
@@ -87,7 +87,7 @@ const sidebars = {
             type: 'category',
             label: 'Find-God-Particle',
             items: [
-              'Apps/Anomaly-Detection/Find-God-Particle/SearchForGodParticle'       
+              'CausalAI/Anomaly-Detection/Find-God-Particle/SearchForGodParticle'       
             ],
           },
            
@@ -98,12 +98,12 @@ const sidebars = {
         label: 'Forecasting',
         items: [
           
-          'Apps/Forecasting/welcomeforecasting',
+          'CausalAI/Forecasting/welcomeforecasting',
           {
             type: 'category',
             label: 'Demand-Forecasting',
             items: [
-              'Apps/Forecasting/Demand-Forecasting/DF_App1'
+              'CausalAI/Forecasting/Demand-Forecasting/DF_App1'
           
             ],
           },
@@ -112,8 +112,8 @@ const sidebars = {
             type: 'category',
             label: 'Stock-Price-Prediction',
             items: [
-              'Apps/Forecasting/Finance-Time-Series/Stock-Price-Prediction/StockForecastingApp01',
-              'Apps/Forecasting/Finance-Time-Series/Stock-Price-Prediction/StockForecastingApp02'
+              'CausalAI/Forecasting/Finance-Time-Series/Stock-Price-Prediction/StockForecastingApp01',
+              'CausalAI/Forecasting/Finance-Time-Series/Stock-Price-Prediction/StockForecastingApp02'
             ],
           },
           
@@ -127,12 +127,12 @@ const sidebars = {
         items: [
     
           
-          'Apps/Reinforcement-Learning/welcomeRHLF',
+          'CausalAI/Reinforcement-Learning/welcomeRHLF',
           {
             type: 'category',
             label: 'RLHF',
             items: [
-              'Apps/Reinforcement-Learning/RLHF/RLHFIntro'
+              'CausalAI/Reinforcement-Learning/RLHF/RLHFIntro'
           
             ],
           },
@@ -147,12 +147,12 @@ const sidebars = {
         items: [
     
           
-          'Apps/Framework/Framework-for-Apps',
+          'CausalAI/Framework/Framework-for-Apps',
           {
             type: 'category',
             label: 'Features',
             items: [
-              'Apps/Framework/Features/Features-Intro'
+              'CausalAI/Framework/Features/Features-Intro'
           
             ],
           },
