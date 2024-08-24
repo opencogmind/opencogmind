@@ -45,7 +45,125 @@ const sidebars = {
     ],
   },],
 
+
   mySidebar: [{type: 'category',
+    label: 'Causal AI',
+    items: [
+    
+      'Apps/Apps-for-AI-Safety',
+      // Add more documentation links as needed
+      {
+        type: 'category',
+        label: 'Anomaly-Detection',
+        items: [
+          'CausalAI/Anomaly-Detection/welcomead',
+          {
+            type: 'category',
+            label: 'Detect-FakeNews',
+            items: [
+              'Apps/Anomaly-Detection/Detect-FakeNews/detectFakeNews'
+          
+            ],
+          },
+  
+          {
+            type: 'category',
+            label: 'Detect-CounterFiets',
+            items: [
+              'Apps/Anomaly-Detection/Detect-CounterFiets/DetectingCouterfiets'
+          
+            ],
+          },
+  
+          {
+            type: 'category',
+            label: 'Detect-TimeSeries-Anomalies',
+            items: [
+              'Apps/Anomaly-Detection/Detect-TimeSeries-Anomalies/timeseriesAnomaly'
+          
+            ],
+          },
+          {
+            type: 'category',
+            label: 'Find-God-Particle',
+            items: [
+              'Apps/Anomaly-Detection/Find-God-Particle/SearchForGodParticle'       
+            ],
+          },
+           
+        ],
+      },
+      {
+        type: 'category',
+        label: 'Forecasting',
+        items: [
+          
+          'Apps/Forecasting/welcomeforecasting',
+          {
+            type: 'category',
+            label: 'Demand-Forecasting',
+            items: [
+              'Apps/Forecasting/Demand-Forecasting/DF_App1'
+          
+            ],
+          },
+           
+          {
+            type: 'category',
+            label: 'Stock-Price-Prediction',
+            items: [
+              'Apps/Forecasting/Finance-Time-Series/Stock-Price-Prediction/StockForecastingApp01',
+              'Apps/Forecasting/Finance-Time-Series/Stock-Price-Prediction/StockForecastingApp02'
+            ],
+          },
+          
+          
+        ],
+    
+      },
+      {
+        type: 'category',
+        label: 'Reinforcement-Learning',
+        items: [
+    
+          
+          'Apps/Reinforcement-Learning/welcomeRHLF',
+          {
+            type: 'category',
+            label: 'RLHF',
+            items: [
+              'Apps/Reinforcement-Learning/RLHF/RLHFIntro'
+          
+            ],
+          },
+           
+    
+        ],
+      },
+  
+      {
+        type: 'category',
+        label: 'Framework',
+        items: [
+    
+          
+          'Apps/Framework/Framework-for-Apps',
+          {
+            type: 'category',
+            label: 'Features',
+            items: [
+              'Apps/Framework/Features/Features-Intro'
+          
+            ],
+          },
+           
+    
+        ],
+      },
+    ],},
+    ],
+    
+  mySidebar2: [{type: 'category',
   label: 'AI Safety',
   items: [
     'aisafety/Why-Need-AI-Safety',
@@ -132,123 +250,6 @@ const sidebars = {
   
  ],
 
-  mySidebar2: [{type: 'category',
-  label: 'Apps',
-  items: [
-  
-    'Apps/Apps-for-AI-Safety',
-    // Add more documentation links as needed
-    {
-      type: 'category',
-      label: 'Anomaly-Detection',
-      items: [
-        'Apps/Anomaly-Detection/welcomead',
-        {
-          type: 'category',
-          label: 'Detect-FakeNews',
-          items: [
-            'Apps/Anomaly-Detection/Detect-FakeNews/detectFakeNews'
-        
-          ],
-        },
-
-        {
-          type: 'category',
-          label: 'Detect-CounterFiets',
-          items: [
-            'Apps/Anomaly-Detection/Detect-CounterFiets/DetectingCouterfiets'
-        
-          ],
-        },
-
-        {
-          type: 'category',
-          label: 'Detect-TimeSeries-Anomalies',
-          items: [
-            'Apps/Anomaly-Detection/Detect-TimeSeries-Anomalies/timeseriesAnomaly'
-        
-          ],
-        },
-        {
-          type: 'category',
-          label: 'Find-God-Particle',
-          items: [
-            'Apps/Anomaly-Detection/Find-God-Particle/SearchForGodParticle'       
-          ],
-        },
-         
-      ],
-    },
-    {
-      type: 'category',
-      label: 'Forecasting',
-      items: [
-        
-        'Apps/Forecasting/welcomeforecasting',
-        {
-          type: 'category',
-          label: 'Demand-Forecasting',
-          items: [
-            'Apps/Forecasting/Demand-Forecasting/DF_App1'
-        
-          ],
-        },
-         
-        {
-          type: 'category',
-          label: 'Stock-Price-Prediction',
-          items: [
-            'Apps/Forecasting/Finance-Time-Series/Stock-Price-Prediction/StockForecastingApp01',
-            'Apps/Forecasting/Finance-Time-Series/Stock-Price-Prediction/StockForecastingApp02'
-          ],
-        },
-        
-        
-      ],
-  
-    },
-    {
-      type: 'category',
-      label: 'Reinforcement-Learning',
-      items: [
-  
-        
-        'Apps/Reinforcement-Learning/welcomeRHLF',
-        {
-          type: 'category',
-          label: 'RLHF',
-          items: [
-            'Apps/Reinforcement-Learning/RLHF/RLHFIntro'
-        
-          ],
-        },
-         
-  
-      ],
-    },
-
-    {
-      type: 'category',
-      label: 'Framework',
-      items: [
-  
-        
-        'Apps/Framework/Framework-for-Apps',
-        {
-          type: 'category',
-          label: 'Features',
-          items: [
-            'Apps/Framework/Features/Features-Intro'
-        
-          ],
-        },
-         
-  
-      ],
-    },
-  ],},
-  ],
-  
   
 
  
