@@ -19,7 +19,7 @@ tagline: "Build Causal Safe thinking machines...",
   // GitHub pages deployment config.
   // If you aren't using GitHub pages, you don't need these.
   organizationName: 'opencogmind', // Usually your GitHub org/user name.
-  projectName: '', // Usually your repo name.
+  projectName: 'opencogmind', // Usually your repo name.
   deploymentBranch: "gh-pages",
 
   onBrokenLinks: 'throw',
