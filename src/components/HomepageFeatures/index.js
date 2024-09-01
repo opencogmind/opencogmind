@@ -3,20 +3,21 @@ import clsx from 'clsx';
 import styles from './styles.module.css';
 
 const FeatureList = [
+  
   {
-    title: 'AI Safety',
-    link: '/aisafety/Why-Need-AI-Safety',
+    title: 'CausalAI',
+    link: '/causalai',
     Svg: require('@site/static/img/1.svg').default,
     description: (
       <>
-        Learn AI Safety for self evolving AGI.
+         Causal AI journey to answer Why?
       </>
     ),
   },
   {
     title: 'AI -) AGI',
     link: '/agi/State-Of-The-Art',
-    Svg: require('@site/static/img/2.svg').default,
+    Svg: require('@site/static/img/3.svg').default,
     description: (
       <>
         Follow the path to AGI.
@@ -24,15 +25,16 @@ const FeatureList = [
     ),
   },
   {
-    title: 'Apps',
-    link: '/Apps',
-    Svg: require('@site/static/img/3.svg').default,
+    title: 'AI Safety',
+    link: '/aisafety/Why-Need-AI-Safety',
+    Svg: require('@site/static/img/2.svg').default,
     description: (
       <>
-        Learn to Build & Evaluate Safe AI apps.
+        Learn AI Safety for self evolving AGI.
       </>
     ),
   },
+  
 ];
 
 function Feature({ link, Svg, title, description}) {

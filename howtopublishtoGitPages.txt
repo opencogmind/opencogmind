@@ -1,0 +1,20 @@
+To check how it looks on local Website
+=================================
+yarn start
+
+
+To push changes to Online Website
+yarn build
+=================================
+Should give you message like this
+[INFO] `git commit -m "Deploy website - based on 7676a530b6080589dc95f3ae872cdefca4672442"` code: 0
+To https://github.com/opencogmind/opencogmind.git
+   5f23fe3..10caf6c  gh-pages -> gh-pages
+[INFO] `git push --force origin gh-pages` code: 0
+Website is live at "https://opencogmind.github.io/opencogmind/".
+✨  Done in 20.11s.
+=================================
+
+GIT_USER=opencogmind yarn deploy
+
+=================================

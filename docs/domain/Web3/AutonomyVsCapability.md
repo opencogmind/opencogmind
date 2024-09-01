@@ -1,0 +1,18 @@
+---
+sidebar_position: 6
+---
+
+# AGI: Capability Vs Autonomy
+![Capability Vs Autonomy](../../../static/img/meme/MultitaskingVsPowerSaveMode.png 'Autonomous decisions made by AGI Might not be in the best of humans! ')
+The main point here is that as AI becomes more advanced, especially AGI, we need to think carefully about how much independence it should have. This depends on the AI's ability to understand and interact in complex, human-like ways. It's also important to keep improving how humans and AI communicate and work together and make sure AGI is safe and aligns with human values and ethics.
+
+### Balancing Capability and Autonomy decides future of humanity!
+Developing ways for humans and AI to work together effectively is a active of research.  When AI reaches the highest level of autonomy (called "AI as an Agent"), it means the AI can make decisions and act on its own, aligning with human goals and values. But even at this level, it should know when it's important to check in with humans for guidance or decisions. For some ways of interacting with AI, it's important that the AI is not just good at one thing but has a broader understanding. This is especially true for higher levels of autonomy, like when AI acts as a "Collaborator," "Expert," or "Agent."
+At these levels, the AI needs to be good at understanding when it should ask for human help, understanding others' thoughts and feelings, and having social skills.
+
+In the realm of Artificial Intelligence (AI), particularly Artificial General Intelligence (AGI), there's a crucial distinction between capabilities and autonomy. AI systems, including those aiming for AGI, operate within specific contexts defined by their interfaces, tasks, scenarios, and end-users. Once Autonomy is granted to an AGI system the risk profiles of such systems should be carefully studied and suitable mitigation strategies must in place.
+
+### Understanding Different levels of AI Autonomy in Simple Terms
+Just like we have different types of AI that are really good at specific tasks (what the paper calls "Superhuman Narrow AI"), the same idea applies to AGI (Artificial General Intelligence). AGI is a type of AI that can understand and learn a wide range of things, much like a human. We might create an AGI that can do a lot of things on its own (autonomously), but we might choose not to let it operate by itself all the time. Instead, we could decide how much freedom it should have based on the situation.
+[Six Levels of Autonomy](https://arxiv.org/pdf/2311.02462.pdf) introduced in the [paper](https://arxiv.org/pdf/2311.02462.pdf) correlate with five levels of performance (Emerging, Competent, Expert, Virtuoso, and Superhuman) of AGI. For instance, in self-driving vehicles, even when Level 5 Self-Driving technology (SAE International, 2021) is available, there might be scenarios where a Level 0 (No Automation: No AI” Paradigm) vehicle is preferable. This could be for teaching new drivers, for the enjoyment of driving enthusiasts, for driver’s licensing exams, or in extreme weather conditions where technology might fail. Although Higher levels of autonomy become possible as AGI capabilities progress lower levels of autonomy might still be preferred for certain tasks, especially for safety reasons. The journey towards AGI is not just about advancing capabilities but also about making thoughtful decisions regarding autonomy. The choices we make in designing human-AI interactions will significantly impact the safety and responsible deployment of AI technologies. As we progress, it's essential to remember that sometimes, the best choice might be to not use AI at all.
+

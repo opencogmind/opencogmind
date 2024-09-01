@@ -6,12 +6,13 @@ const darkCodeTheme = require('prism-react-renderer/themes/dracula');
 
 /** @type {import('@docusaurus/types').Config} */
 const config = {
-title: 'Follow Causal AI journey to Safe AGI',
-tagline: "Build Causal Safe thinking machines...",
+title: 'Follow Causal AI journey',
+tagline: "To Build thinking and Safe AGI ...",
   favicon: 'img/favicon.ico',
 
   // Set the production url of your site here
-  url: 'http://localhost',
+  // url: 'http://localhost',
+  url: 'https://opencogmind.com/',
   // Set the /<baseUrl>/ pathname under which your site is served
   // For GitHub pages deployment, it is often '/<projectName>/'
   baseUrl: '/',
@@ -85,14 +86,26 @@ tagline: "Build Causal Safe thinking machines...",
             type: 'docSidebar',
             sidebarId: 'tutorialSidebar',
             position: 'left',
-            label: 'AGI',
+            label: 'Causal AI',
+          },
+          {
+            type: 'docSidebar',
+            sidebarId: 'tutorialSidebar2',
+            position: 'left',
+            label: 'Domain',
+          },
+          {
+            type: 'docSidebar',
+            sidebarId: 'tutorialSidebar3',
+            position: 'left',
+            label: 'Algo Trading',
           },
           {
             type: 'docSidebar',
             routeBasePath:'/',
             sidebarId: 'mySidebar',
             position: 'left',
-            label: 'Causal AI',
+            label: 'AGI',
           },
           {
             type: 'docSidebar',
@@ -132,6 +145,22 @@ tagline: "Build Causal Safe thinking machines...",
         {
         title: 'OpenCogMind',
         items: [
+        {
+           label: 'Causal AI',
+           to: '/causalai/How-to-Get-Started',
+        },
+        {
+            label: 'Domain',
+            to: '/domain/Welcome',
+        },
+        {
+          label: 'Algo Trading',
+          to:  '/algotrade/gettingstarted',
+        },
+        {
+            label: 'AGI',
+            to: '/algotrade/gettingstarted',
+        },
         {
         label: 'AGI',
         to: '/agi/State-Of-The-Art',

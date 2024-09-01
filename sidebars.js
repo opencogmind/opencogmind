@@ -16,21 +16,21 @@ const sidebars = {
   // By default, Docusaurus generates a sidebar from the docs folder structure
   tutorialSidebar: [{
     type: 'category',
-    label: 'AGI',
+    label: 'Causal AI',
     items: [
-      'agi/State-Of-The-Art',
+      'causalai/How-to-Get-Started',
     ],
   },
   {
     type: 'category',
     label: 'Fundamentals',
     items: [
-      'agi/Fundamentals/Definitions',
-      'agi/Fundamentals/Principles-Of-AGI',
-      'agi/Fundamentals/Levels-Of-AGI',
-      'agi/Fundamentals/Evaluating-AGI',
-      'agi/Fundamentals/Risk-Assessment',
-      'agi/Fundamentals/AutonomyVsCapability',
+      'causalai/Fundamentals/CorrelationIsNotCausation',
+      'causalai/Fundamentals/Principles-Of-AGI',
+      'causalai/Fundamentals/Levels-Of-AGI',
+      'causalai/Fundamentals/Evaluating-AGI',
+      'causalai/Fundamentals/Risk-Assessment',
+      'causalai/Fundamentals/AutonomyVsCapability',
     ],
   },
   {
@@ -40,127 +40,121 @@ const sidebars = {
     label: 'Research',
 
     items: [
-      'agi/Research/Sparks-Of-AGI'
+      'causalai/Research/Sparks-Of-AGI'
   
     ],
   },],
 
+  tutorialSidebar2: [{
+    type: 'category',
+    label: 'Domain',
+    items: [
+      'domain/Welcome',
+    ],
+  },
+  {
+    type: 'category',
+    label: 'CeFi-Mainstream',
+    items: [
+      'domain/CeFi-Mainstream/marketparticipants/Market Pariticipants',
+      'domain/CeFi-Mainstream/Principles-Of-AGI',
+      'domain/CeFi-Mainstream/Levels-Of-AGI',
+      'domain/CeFi-Mainstream/Evaluating-AGI',
+      'domain/CeFi-Mainstream/Risk-Assessment',
+      'domain/CeFi-Mainstream/AutonomyVsCapability',
+    ],
+  },
+  {
+    type: 'category',
+    label: 'CeFi-Alternative',
+    items: [
+      'domain/CeFi-Alternative/Definitions',
+      'domain/CeFi-Alternative/Principles-Of-AGI',
+      'domain/CeFi-Alternative/Levels-Of-AGI',
+      'domain/CeFi-Alternative/Evaluating-AGI',
+      'domain/CeFi-Alternative/Risk-Assessment',
+      'domain/CeFi-Alternative/AutonomyVsCapability',
+    ],
+  },
+  {
+    type: 'category',
+    label: 'DeFi',
+    items: [
+      'domain/DeFi/Definitions',
+      'domain/DeFi/Principles-Of-AGI',
+      'domain/DeFi/Levels-Of-AGI',
+      'domain/DeFi/Evaluating-AGI',
+      'domain/DeFi/Risk-Assessment',
+      'domain/DeFi/AutonomyVsCapability',
+    ],
+  },
+  {
+    type: 'category',
+    label: 'Web3',
+    items: [
+      'domain/Web3/Definitions',
+      'domain/Web3/Principles-Of-AGI',
+      'domain/Web3/Levels-Of-AGI',
+      'domain/Web3/Evaluating-AGI',
+      'domain/Web3/Risk-Assessment',
+      'domain/Web3/AutonomyVsCapability',
+    ],
+  },
+],
 
-  mySidebar: [{type: 'category',
-    label: 'Causal AI',
+tutorialSidebar3: [{
+  type: 'category',
+  label: 'Algo Trading',
+  items: [
+    'algotrade/gettingstarted',
+  ],
+},
+{
+  type: 'category',
+  label: 'Fundamentals',
+  items: [
+    'algotrade/Fundamentals/Definitions',
+    'algotrade/Fundamentals/Principles-Of-AGI',
+    'algotrade/Fundamentals/Levels-Of-AGI',
+    'algotrade/Fundamentals/Evaluating-AGI',
+    'algotrade/Fundamentals/Risk-Assessment',
+    'algotrade/Fundamentals/AutonomyVsCapability',
+  ],
+},
+],
+
+  mySidebar: [
+    {type: 'category',
+    label: 'AGI',
     items: [
     
-      'CausalAI/Apps-for-AI-Safety',
+      'agi/State-Of-The-Art',
       // Add more documentation links as needed
       {
         type: 'category',
-        label: 'Anomaly-Detection',
+        label: 'Fundamentals',
         items: [
-          'CausalAI/Anomaly-Detection/welcomead',
-          {
-            type: 'category',
-            label: 'Detect-FakeNews',
-            items: [
-              'CausalAI/Anomaly-Detection/Detect-FakeNews/detectFakeNews'
-          
-            ],
-          },
-  
-          {
-            type: 'category',
-            label: 'Detect-CounterFiets',
-            items: [
-              'CausalAI/Anomaly-Detection/Detect-CounterFiets/DetectingCouterfiets'
-          
-            ],
-          },
-  
-          {
-            type: 'category',
-            label: 'Detect-TimeSeries-Anomalies',
-            items: [
-              'CausalAI/Anomaly-Detection/Detect-TimeSeries-Anomalies/timeseriesAnomaly'
-          
-            ],
-          },
-          {
-            type: 'category',
-            label: 'Find-God-Particle',
-            items: [
-              'CausalAI/Anomaly-Detection/Find-God-Particle/SearchForGodParticle'       
-            ],
-          },
+          'agi/Fundamentals/Definitions',
+          'agi/Fundamentals/Principles-Of-AGI',
+          'agi/Fundamentals/Levels-Of-AGI',
+          'agi/Fundamentals/Evaluating-AGI',
+          'agi/Fundamentals/Risk-Assessment',
+          'agi/Fundamentals/AutonomyVsCapability',
            
         ],
-      },
-      {
-        type: 'category',
-        label: 'Forecasting',
-        items: [
-          
-          'CausalAI/Forecasting/welcomeforecasting',
-          {
-            type: 'category',
-            label: 'Demand-Forecasting',
-            items: [
-              'CausalAI/Forecasting/Demand-Forecasting/DF_App1'
-          
-            ],
-          },
-           
-          {
-            type: 'category',
-            label: 'Stock-Price-Prediction',
-            items: [
-              'CausalAI/Forecasting/Finance-Time-Series/Stock-Price-Prediction/StockForecastingApp01',
-              'CausalAI/Forecasting/Finance-Time-Series/Stock-Price-Prediction/StockForecastingApp02'
-            ],
-          },
-          
-          
-        ],
-    
-      },
-      {
-        type: 'category',
-        label: 'Reinforcement-Learning',
-        items: [
-    
-          
-          'CausalAI/Reinforcement-Learning/welcomeRHLF',
-          {
-            type: 'category',
-            label: 'RLHF',
-            items: [
-              'CausalAI/Reinforcement-Learning/RLHF/RLHFIntro'
-          
-            ],
-          },
-           
-    
-        ],
-      },
-  
-      {
-        type: 'category',
-        label: 'Framework',
-        items: [
-    
-          
-          'CausalAI/Framework/Framework-for-Apps',
-          {
-            type: 'category',
-            label: 'Features',
-            items: [
-              'CausalAI/Framework/Features/Features-Intro'
-          
-            ],
-          },
-           
-    
-        ],
-      },
+      }
     ],},
+    {
+      type: 'category',
+      label: 'tutorial-extras',
+  
+      label: 'Research',
+  
+      items: [
+        'agi/Research/Sparks-Of-AGI'
+    
+      ],
+    }
     ],
     
   mySidebar2: [{type: 'category',
@@ -250,10 +244,6 @@ const sidebars = {
   
  ],
 
-  
-
- 
- 
 
   mySidebar3: [{type: 'category',
   label: 'Book',
