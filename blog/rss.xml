@@ -2,7 +2,7 @@
 <rss version="2.0" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/">
     <channel>
         <title>Follow Causal AI journey Blog</title>
-        <link>http://localhost/blog</link>
+        <link>https://opencogmind.com/blog</link>
         <description>Follow Causal AI journey Blog</description>
         <lastBuildDate>Sat, 25 Nov 2023 00:00:00 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
@@ -10,8 +10,8 @@
         <language>en</language>
         <item>
             <title><![CDATA[Welcome]]></title>
-            <link>http://localhost/blog/welcome</link>
-            <guid>http://localhost/blog/welcome</guid>
+            <link>https://opencogmind.com/blog/welcome</link>
+            <guid>https://opencogmind.com/blog/welcome</guid>
             <pubDate>Sat, 25 Nov 2023 00:00:00 GMT</pubDate>
             <description><![CDATA[Hello readers, my name is Raghav Chalapathy]]></description>
             <content:encoded><![CDATA[<p>Hello readers, my name is <a href="https://www.linkedin.com/in/raghav-chalapathy-phd-80984117/" target="_blank" rel="noopener noreferrer">Raghav Chalapathy</a>
@@ -23,8 +23,8 @@ A decade of research into detecting rare <a href="https://raghavchalapathy.githu
         </item>
         <item>
             <title><![CDATA[Detect Fake News]]></title>
-            <link>http://localhost/blog/fake-news</link>
-            <guid>http://localhost/blog/fake-news</guid>
+            <link>https://opencogmind.com/blog/fake-news</link>
+            <guid>https://opencogmind.com/blog/fake-news</guid>
             <pubDate>Wed, 22 Nov 2023 00:00:00 GMT</pubDate>
             <description><![CDATA[Truth Under Attack !!]]></description>
             <content:encoded><![CDATA[<p>Truth Under Attack !!
@@ -35,8 +35,8 @@ In the digital era, the proliferation of misinformation and fake news presents a
         </item>
         <item>
             <title><![CDATA[AI's Dual Use Problem Counterfeits]]></title>
-            <link>http://localhost/blog/ai-counter</link>
-            <guid>http://localhost/blog/ai-counter</guid>
+            <link>https://opencogmind.com/blog/ai-counter</link>
+            <guid>https://opencogmind.com/blog/ai-counter</guid>
             <pubDate>Tue, 21 Nov 2023 00:00:00 GMT</pubDate>
             <description><![CDATA[The Dual-Edged Sword of AI in the Battle Against Counterfeiting: Implications for Retail E-commerce and National GDP.]]></description>
             <content:encoded><![CDATA[<p>The Dual-Edged Sword of AI in the Battle Against Counterfeiting: Implications for Retail E-commerce and <a href="https://www.cbp.gov/trade/fakegoodsrealdangers" target="_blank" rel="noopener noreferrer">National GDP</a>.
@@ -47,8 +47,8 @@ In the ever-evolving landscape of artificial intelligence (AI), its applications
         </item>
         <item>
             <title><![CDATA[AI Safety Requirements]]></title>
-            <link>http://localhost/blog/ai-safety</link>
-            <guid>http://localhost/blog/ai-safety</guid>
+            <link>https://opencogmind.com/blog/ai-safety</link>
+            <guid>https://opencogmind.com/blog/ai-safety</guid>
             <pubDate>Mon, 20 Nov 2023 00:00:00 GMT</pubDate>
             <description><![CDATA[Primary requirements Shaping the Future of AI Safety are :]]></description>
             <content:encoded><![CDATA[<p>Primary requirements Shaping the Future of AI Safety are :</p><ul><li><strong><a href="https://www.unesco.org/en/artificial-intelligence/recommendation-ethics" target="_blank" rel="noopener noreferrer">Aligning with Ethics and Values</a></strong></li><li><strong><a href="https://www.ibm.com/watson/advantage-reports/future-of-artificial-intelligence/building-trust-in-ai.html" target="_blank" rel="noopener noreferrer">Building Trust</a></strong></li><li><strong><a href="https://cset.georgetown.edu/publication/adding-structure-to-ai-harm/" target="_blank" rel="noopener noreferrer">Preventing Harm</a></strong></li></ul><h3 class="anchor anchorWithStickyNavbar_LWe7" id="aligning-with-ethics-and-values">Aligning with <a href="https://www.unesco.org/en/artificial-intelligence/recommendation-ethics" target="_blank" rel="noopener noreferrer">Ethics and Values</a><a href="#aligning-with-ethics-and-values" class="hash-link" aria-label="Direct link to aligning-with-ethics-and-values" title="Direct link to aligning-with-ethics-and-values">​</a></h3><p>In my view, <strong>AI safety transcends mere technical robustness</strong>; it embodies the principle of
@@ -68,8 +68,8 @@ and pedestrians hinges on the vehicle's ability to make accurate predictions.</p
         </item>
         <item>
             <title><![CDATA[Aligning with Ethics and Values]]></title>
-            <link>http://localhost/blog/ai-alignment</link>
-            <guid>http://localhost/blog/ai-alignment</guid>
+            <link>https://opencogmind.com/blog/ai-alignment</link>
+            <guid>https://opencogmind.com/blog/ai-alignment</guid>
             <pubDate>Sun, 19 Nov 2023 00:00:00 GMT</pubDate>
             <description><![CDATA[How to achieve Guiding AI Behavior to align with Ethics and Values?]]></description>
             <content:encoded><![CDATA[<h2 class="anchor anchorWithStickyNavbar_LWe7" id="how-to-achieve-guiding-ai-behavior-to-align-with-ethics-and-values">How to achieve Guiding AI Behavior to align with Ethics and Values?<a href="#how-to-achieve-guiding-ai-behavior-to-align-with-ethics-and-values" class="hash-link" aria-label="Direct link to How to achieve Guiding AI Behavior to align with Ethics and Values?" title="Direct link to How to achieve Guiding AI Behavior to align with Ethics and Values?">​</a></h2><p>I recognize the profound significance of Reinforcement Learning with Human Feedback (RLHF) techniques, particularly
